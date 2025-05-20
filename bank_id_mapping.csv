@@ -1,0 +1,30 @@
+Bank Name,Bank ID,Region,Region Code,Primary Currency,Currency Code
+Citibank,CCITCSA97O1,Central Asia,CS,AED,A
+HSBC,HSBCSAJ3AWL,South Asia,SA,JPY,J
+JPMorgan Chase,JCJPCSPT6VE,Central Asia,CS,SGD,P
+Bank of America,BOABAPYW2AI,Asia Pacific,AP,CNY,Y
+Standard Chartered,SCSTSAJCGGU,South Asia,SA,JPY,J
+Deutsche Bank,DBDEAFD8TF9,Africa,AF,CAD,D
+BNP Paribas,BPBNSAGBDFK,South Asia,SA,GBP,G
+Barclays,BBARCAJE39D,Caribbean,CA,JPY,J
+Credit Suisse,CSCREUDDWHZ,Europe,EU,CAD,D
+UBS,UBSXCAERBS5,Caribbean,CA,EUR,E
+Bank of China,BOCBLAU4MU2,Latin America,LA,USD,U
+Industrial and Commercial Bank of China,IACBCAS96CQ,Caribbean,CA,AUD,S
+Wells Fargo,WFWENAPBTW1,North America,NA,SGD,P
+Goldman Sachs,GSGOAPY403I,Asia Pacific,AP,CNY,Y
+Morgan Stanley,MSMOAFS30WV,Africa,AF,AUD,S
+Royal Bank of Canada,RBOCAPJHCUC,Asia Pacific,AP,JPY,J
+Bank of Tokyo-Mitsubishi UFJ,BOTUAPYTC1F,Asia Pacific,AP,CNY,Y
+Emirates NBD,ENEMMEA9M1P,Middle East,ME,AED,A
+Abu Dhabi Commercial Bank,ADCBMEAR67M,Middle East,ME,AED,A
+First Abu Dhabi Bank,FADBMEAU62L,Middle East,ME,AED,A
+Dubai Islamic Bank,DIBDMEAH5WI,Middle East,ME,AED,A
+Mashreq Bank,MBMAMEAMLH6,Middle East,ME,AED,A
+Commercial Bank of Dubai,CBODMEAETTK,Middle East,ME,AED,A
+Abu Dhabi Islamic Bank,ADIBMEAA9IS,Middle East,ME,AED,A
+RAK Bank,RBRAMEA3XM6,Middle East,ME,AED,A
+National Bank of Fujairah,NBOFMEAVQ32,Middle East,ME,AED,A
+Sharjah Islamic Bank,SIBSMEA0QZG,Middle East,ME,AED,A
+United Arab Bank,UABUMEAR2WJ,Middle East,ME,AED,A
+National Bank of Umm Al Qaiwain,NBOUMEABEFA,Middle East,ME,AED,A
