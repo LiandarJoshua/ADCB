@@ -1,0 +1,11 @@
+tam, sam ,som
+one metric that matters
+kra - Key Result Area
+kpi- key performance indicator
+3 Core Sectors of Banking- Corporate,Retail and Service
+
+day to day log using keywords and 3 llms: gpt,gemini and grok
+
+Sankey,Alluvial,Plotly Interactive Visualization
+ 
+Continous Integration,Continous Deployment Pipeline
