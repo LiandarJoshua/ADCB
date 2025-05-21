@@ -1,11 +1,40 @@
-tam, sam ,som
-one metric that matters
-kra - Key Result Area
-kpi- key performance indicator
-3 Core Sectors of Banking- Corporate,Retail and Service
+Day 1 focuses on Introduction to Business, Introduction to Strategy and Strategy Delivery Methods.
+TAM, SAM, SOM is used for tourism marketing.
+Got better at telling apart:
 
-day to day log using keywords and 3 llms: gpt,gemini and grok
+TAM refers to the entire demand in a market.
 
-Sankey,Alluvial,Plotly Interactive Visualization
- 
-Continous Integration,Continous Deployment Pipeline
+SAM (Serviceable Available Market) – the part of TAM that your products/services are made for.
+
+A part of SAM that your business can practically achieve through marketing and sales efforts.
+
+One Metric That Matters:
+Realized it is helpful to select one major metric that guides how decisions are made during growth or experimentation phases.
+
+What is the difference between KRA and KPI?
+
+KRA (Key Result Area): The wider areas of achievement associated with a role.
+
+A KPI (Key Performance Indicator): A particular measurement used to show how well each KRA is being done.
+
+On the second day, we focused on the banking sector.
+The key areas in banking are Fixed Income, Commodities and FX.
+
+Corporate Banking is the part of banking that assists businesses, corporate institutions and similar groups.
+
+Retail Banking provides banking services to people who are not businesses.
+
+Service Banking covers financial services that include wealth management, insurance and advisory.
+
+On Day 3, we will study data visualization and DevOps.
+Advanced Visualizations:
+
+Read how Sankey and Alluvial Diagrams are used to show the movement of project budget.
+
+Discovered Plotly which helps create interacting visualizations for both dashboards and presentations.
+
+CI/CD Pipeline is a tool that follows DevOps practices.
+
+Explored Continuous Integration (CI) which is used to automate the testing and bringing together of code.
+
+Appreciate CD – where code is pushed directly into production automatically, so that everything is done safely and without delay.
