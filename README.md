@@ -115,7 +115,6 @@ The app recognizes these regions:
 - North America, South America, Europe, Asia, Africa
 - Middle East, Australia, Caribbean, Central America
 - Southeast Asia, East Asia, South Asia, Central Asia
-- Various sub-regions of Europe and Africa
 
 ## Getting Help
 
