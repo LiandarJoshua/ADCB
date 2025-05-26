@@ -38,3 +38,10 @@ CI/CD Pipeline is a tool that follows DevOps practices.
 Explored Continuous Integration (CI) which is used to automate the testing and bringing together of code.
 
 Appreciate CD – where code is pushed directly into production automatically, so that everything is done safely and without delay.
+
+
+
+
+Job to Be Done- Data is presented in CSV format- visualize it in a user friendly format via Filtered Hierarichal Sankey Diagrams to gain valuable insights.
+
+Challenges: Particular Plug in- Streamlit not present, how can it be changed.
