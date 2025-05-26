@@ -12,6 +12,77 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="expanded"
 )
+st.markdown("""
+<style>
+    /* Mobile-first responsive design */
+    @media (max-width: 768px) {
+        .main .block-container {
+            padding-top: 2rem;
+            padding-left: 1rem;
+            padding-right: 1rem;
+            max-width: 100%;
+        }
+        
+        /* Make sidebar collapsible on mobile */
+        .css-1d391kg {
+            width: 100% !important;
+        }
+        
+        /* Adjust metric cards for mobile */
+        div[data-testid="metric-container"] {
+            background-color: #f0f2f6;
+            border: 1px solid #d6d9dc;
+            padding: 0.5rem;
+            border-radius: 0.5rem;
+            margin: 0.25rem 0;
+        }
+        
+        /* Make tabs more touch-friendly */
+        .stTabs [data-baseweb="tab-list"] {
+            gap: 0.5rem;
+        }
+        
+        .stTabs [data-baseweb="tab"] {
+            padding: 0.75rem 1rem;
+            font-size: 0.9rem;
+        }
+        
+        /* Improve selectbox spacing on mobile */
+        .stSelectbox > div > div {
+            font-size: 0.9rem;
+        }
+        
+        /* Better button styling for mobile */
+        .stButton > button {
+            width: 100%;
+            margin: 0.25rem 0;
+        }
+    }
+    
+    /* Tablet adjustments */
+    @media (min-width: 769px) and (max-width: 1024px) {
+        .main .block-container {
+            padding-left: 2rem;
+            padding-right: 2rem;
+        }
+    }
+    
+    /* Improve chart containers */
+    .js-plotly-plot {
+        width: 100% !important;
+    }
+    
+    /* Make title responsive */
+    h1 {
+        font-size: clamp(1.5rem, 4vw, 2.5rem);
+    }
+    
+    /* Responsive subheaders */
+    h2, h3 {
+        font-size: clamp(1.2rem, 3vw, 1.8rem);
+    }
+</style>
+""", unsafe_allow_html=True)
 
 # Dictionary of region coordinates (latitude, longitude)
 region_coordinates = {
