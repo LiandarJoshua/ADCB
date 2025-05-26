@@ -1,0 +1,501 @@
+Count,sender,receiver,amount,currency,Mt,year,direction,category,send region,receiver region,mx/mt,transaction_status,payment_method
+1,Mashreq Bank,United Arab Bank,38111.53,EUR,MT940,2015,Outgoing,Retail Payment,Central Asia,Middle East,MT,Completed,ACH
+2,Barclays,RAK Bank,128668.3,GBP,MT799,2018,Incoming,FX Settlement,Latin America,Middle East,MT,Pending,Wire Transfer
+3,Royal Bank of Canada,Emirates NBD,26914.61,EUR,MT103,2023,Outgoing,Retail Payment,Southeast Asia,Middle East,MT,Completed,Wire Transfer
+4,Bank of China,First Abu Dhabi Bank,1248.98,USD,MT760,2015,Incoming,Trade Finance,Asia Pacific,Middle East,MT,Failed,ACH
+5,BNP Paribas,Bank of Tokyo-Mitsubishi UFJ,6710.04,GBP,MT940,2016,Incoming,Loan Disbursement,Central Asia,Southeast Asia,MT,Failed,Check
+6,Dubai Islamic Bank,Emirates NBD,14220.78,USD,MT950,2017,Incoming,Corporate Payment,Latin America,Middle East,MT,Completed,Check
+7,Bank of America,Commercial Bank of Dubai,839.24,CNY,MT940,2016,Incoming,Loan Disbursement,Central Asia,Middle East,MT,Completed,ACH
+8,Barclays,Mashreq Bank,4601.58,USD,MT202,2023,Outgoing,Treasury Operations,Central Asia,Middle East,MT,Completed,SWIFT
+9,First Abu Dhabi Bank,National Bank of Fujairah,6215.93,USD,MT103,2023,Incoming,Trade Finance,Central Asia,Middle East,MT,Pending,SWIFT
+10,Emirates NBD,First Abu Dhabi Bank,37429.08,AED,MT700,2021,Outgoing,Trade Finance,Africa,Middle East,MT,Completed,SWIFT
+11,Credit Suisse,BNP Paribas,2293.35,USD,MT940,2020,Incoming,FX Settlement,Africa,Southeast Asia,MT,Pending,ACH
+12,Barclays,Commercial Bank of Dubai,11463065.0,JPY,MT103,2020,Outgoing,Treasury Operations,Asia Pacific,Middle East,MT,Completed,ACH
+13,Dubai Islamic Bank,BNP Paribas,7444.03,EUR,MT700,2020,Outgoing,FX Settlement,Caribbean,Southeast Asia,MT,Completed,Check
+14,Bank of America,Mashreq Bank,36291.49,USD,MT799,2015,Outgoing,Retail Payment,Middle East,Middle East,MT,Pending,Wire Transfer
+15,BNP Paribas,Morgan Stanley,34186.59,USD,MT799,2020,Incoming,Interbank Settlement,Middle East,Caribbean,MT,Completed,Check
+16,Emirates NBD,BNP Paribas,84537.08,USD,MT700,2019,Incoming,Trade Finance,Middle East,North America,MT,Completed,ACH
+17,JPMorgan Chase,Abu Dhabi Islamic Bank,22651.91,EUR,MT103,2022,Outgoing,Corporate Payment,Central Asia,Middle East,MT,Completed,Wire Transfer
+18,Bank of Tokyo-Mitsubishi UFJ,Credit Suisse,3380.69,USD,MT103,2019,Incoming,Interbank Settlement,Caribbean,Africa,MT,Completed,Wire Transfer
+19,Industrial and Commercial Bank of China,Mashreq Bank,24109.12,USD,MT799,2016,Incoming,Trade Finance,North America,Middle East,MT,Completed,Wire Transfer
+20,HSBC,Mashreq Bank,753394.47,EUR,MT950,2023,Incoming,FX Settlement,Caribbean,Middle East,MT,Completed,ACH
+21,Emirates NBD,RAK Bank,72153.27,USD,MT760,2019,Incoming,Investment,Latin America,Middle East,MT,Failed,Check
+22,Bank of China,Emirates NBD,5630.3,USD,MT700,2020,Incoming,FX Settlement,Asia Pacific,Middle East,MT,Pending,Wire Transfer
+23,Bank of America,First Abu Dhabi Bank,83388.64,USD,MT940,2023,Incoming,Trade Finance,North America,Middle East,MT,Completed,Check
+24,BNP Paribas,Abu Dhabi Commercial Bank,200469.31,AED,MT700,2022,Incoming,Trade Finance,South Asia,Middle East,MT,Completed,Cash
+25,UBS,First Abu Dhabi Bank,8617.72,AUD,MT760,2022,Incoming,Trade Finance,Europe,Middle East,MT,Completed,Wire Transfer
+26,Abu Dhabi Commercial Bank,Standard Chartered,1005985.0,JPY,MT940,2022,Outgoing,Trade Finance,Asia Pacific,Latin America,MT,Completed,Cash
+27,Bank of China,First Abu Dhabi Bank,1435374.0,JPY,MT760,2017,Outgoing,Trade Finance,Central Asia,Middle East,MT,Cancelled,Credit Card
+28,Barclays,Royal Bank of Canada,108873.15,USD,MT103,2015,Outgoing,Trade Finance,Europe,Asia Pacific,MT,Completed,SWIFT
+29,Wells Fargo,Abu Dhabi Commercial Bank,106300.06,USD,MT103,2021,Incoming,Trade Finance,Africa,Middle East,MT,Completed,SWIFT
+30,Barclays,Abu Dhabi Islamic Bank,589983.69,AED,MT950,2018,Outgoing,FX Settlement,Asia Pacific,Middle East,MT,Completed,Credit Card
+31,Bank of Tokyo-Mitsubishi UFJ,Commercial Bank of Dubai,21651.6,CHF,MT700,2021,Incoming,Treasury Operations,North America,Middle East,MT,Completed,ACH
+32,Citibank,Mashreq Bank,40946.89,USD,MT950,2023,Outgoing,Interbank Settlement,Asia Pacific,Middle East,MT,Completed,Wire Transfer
+33,Industrial and Commercial Bank of China,Abu Dhabi Commercial Bank,35984.19,CAD,MT799,2016,Outgoing,Investment,Africa,Latin America,MT,Completed,Check
+34,Citibank,Dubai Islamic Bank,47092.21,USD,MT799,2017,Incoming,Loan Disbursement,North America,Middle East,MT,Completed,ACH
+35,Wells Fargo,National Bank of Fujairah,114061.69,CNY,MT910,2022,Incoming,Corporate Payment,Latin America,Middle East,MT,Completed,ACH
+36,UBS,Abu Dhabi Commercial Bank,13318.16,USD,MT950,2017,Outgoing,Trade Finance,Latin America,Middle East,MT,Completed,Wire Transfer
+37,UBS,Abu Dhabi Islamic Bank,1611.9,GBP,MT760,2019,Incoming,Loan Disbursement,South Asia,Middle East,MT,Completed,SWIFT
+38,Morgan Stanley,Emirates NBD,10242.08,USD,MT910,2018,Incoming,Investment,Asia Pacific,Middle East,MT,Completed,Wire Transfer
+39,HSBC,Abu Dhabi Commercial Bank,374865.09,USD,MT202,2017,Outgoing,Investment,Latin America,Middle East,MT,Completed,Mobile Payment
+40,Bank of Tokyo-Mitsubishi UFJ,Emirates NBD,7992.77,USD,MT910,2022,Outgoing,Investment,Africa,Middle East,MT,Completed,Wire Transfer
+41,Royal Bank of Canada,National Bank of Umm Al Qaiwain,50229.84,USD,MT799,2021,Incoming,Interbank Settlement,Asia Pacific,Middle East,MT,Completed,Wire Transfer
+42,Morgan Stanley,Abu Dhabi Commercial Bank,2782.69,EUR,MT910,2019,Outgoing,Trade Finance,Central Asia,Middle East,MT,Completed,ACH
+43,Standard Chartered,Sharjah Islamic Bank,6920.69,USD,MT103,2022,Outgoing,Corporate Payment,Latin America,Middle East,MT,Completed,Wire Transfer
+44,Barclays,Mashreq Bank,199639.9,GBP,MT799,2018,Outgoing,FX Settlement,Africa,Middle East,MT,Failed,SWIFT
+45,JPMorgan Chase,National Bank of Umm Al Qaiwain,3731.78,USD,MT799,2018,Incoming,Interbank Settlement,Africa,Middle East,MT,Failed,Mobile Payment
+46,Dubai Islamic Bank,Dubai Islamic Bank,31053.15,USD,MT950,2017,Incoming,Corporate Payment,Africa,Middle East,MT,Completed,Check
+47,Citibank,Mashreq Bank,191173.15,GBP,MT202,2015,Incoming,Loan Disbursement,Southeast Asia,Middle East,MT,Pending,Wire Transfer
+48,Citibank,RAK Bank,1933.54,GBP,MT760,2022,Incoming,FX Settlement,Caribbean,Middle East,MT,Completed,Wire Transfer
+49,Morgan Stanley,Abu Dhabi Commercial Bank,17130.02,AED,MT700,2016,Outgoing,Interbank Settlement,Asia Pacific,Europe,MT,Completed,Check
+50,Barclays,Emirates NBD,29924.25,USD,MT202,2022,Outgoing,Loan Disbursement,North America,Europe,MT,Completed,Mobile Payment
+51,UBS,Sharjah Islamic Bank,2922.33,EUR,MT202,2022,Outgoing,Corporate Payment,Central Asia,Middle East,MT,Completed,ACH
+52,Royal Bank of Canada,National Bank of Fujairah,5434.4,EUR,MT799,2019,Outgoing,FX Settlement,Asia Pacific,Middle East,MT,Completed,ACH
+53,Bank of China,Bank of America,4608356.0,JPY,MT950,2019,Outgoing,Interbank Settlement,North America,Europe,MT,Completed,Wire Transfer
+54,JPMorgan Chase,National Bank of Fujairah,2227.91,USD,MT103,2019,Incoming,Interbank Settlement,South Asia,Middle East,MT,Completed,Cash
+55,Goldman Sachs,Emirates NBD,11885.38,CAD,MT940,2023,Incoming,Interbank Settlement,Asia Pacific,Middle East,MT,Completed,ACH
+56,Bank of China,Mashreq Bank,96378.2,USD,MT760,2017,Outgoing,Interbank Settlement,Africa,Middle East,MT,Completed,Wire Transfer
+57,Bank of China,BNP Paribas,6560.1,EUR,MT799,2023,Outgoing,Loan Disbursement,Europe,Latin America,MT,Failed,Wire Transfer
+58,Credit Suisse,Emirates NBD,21737.07,USD,MT940,2020,Incoming,Treasury Operations,Central Asia,North America,MT,Completed,Cash
+59,Wells Fargo,United Arab Bank,10866.53,USD,MT700,2021,Incoming,FX Settlement,North America,Middle East,MT,Completed,Wire Transfer
+60,Industrial and Commercial Bank of China,BNP Paribas,26517.39,EUR,MT760,2022,Incoming,Interbank Settlement,Asia Pacific,Southeast Asia,MT,Completed,Wire Transfer
+61,Bank of Tokyo-Mitsubishi UFJ,BNP Paribas,21407.05,USD,MT760,2017,Incoming,Corporate Payment,Middle East,Asia Pacific,MT,Completed,ACH
+62,Credit Suisse,Abu Dhabi Islamic Bank,17968.91,AED,MT799,2018,Incoming,Investment,South Asia,Middle East,MT,Completed,Wire Transfer
+63,Industrial and Commercial Bank of China,National Bank of Fujairah,13163.43,CAD,MT760,2017,Outgoing,FX Settlement,Africa,Middle East,MT,Completed,Wire Transfer
+64,Royal Bank of Canada,United Arab Bank,43761.72,CHF,MT760,2018,Outgoing,Retail Payment,Middle East,Middle East,MT,Completed,Check
+65,Mashreq Bank,National Bank of Fujairah,7686.95,SGD,MT910,2022,Incoming,Retail Payment,Caribbean,Middle East,MT,Completed,Cash
+66,Abu Dhabi Commercial Bank,Sharjah Islamic Bank,5163.31,CAD,MT950,2023,Incoming,Interbank Settlement,Central Asia,Middle East,MT,Completed,Check
+67,Barclays,Sharjah Islamic Bank,17385.89,USD,MT202,2022,Incoming,Interbank Settlement,Africa,Middle East,MT,Completed,Cash
+68,Bank of Tokyo-Mitsubishi UFJ,Industrial and Commercial Bank of China,2885.38,USD,MT760,2015,Outgoing,Interbank Settlement,Asia Pacific,Southeast Asia,MT,Completed,ACH
+69,Wells Fargo,Morgan Stanley,3040.11,CNY,MT202,2019,Outgoing,Treasury Operations,Africa,Latin America,MT,Completed,Check
+70,Citibank,Commercial Bank of Dubai,1260954.86,AED,MT950,2016,Outgoing,Trade Finance,Africa,Middle East,MT,Completed,Wire Transfer
+71,Bank of Tokyo-Mitsubishi UFJ,United Arab Bank,28308.96,EUR,MT700,2020,Outgoing,Trade Finance,Africa,Middle East,MT,Completed,SWIFT
+72,Deutsche Bank,National Bank of Umm Al Qaiwain,122795.56,AED,MT940,2020,Outgoing,Investment,Asia Pacific,Middle East,MT,Pending,Credit Card
+73,Standard Chartered,Mashreq Bank,13772.99,USD,MT700,2020,Outgoing,Treasury Operations,Middle East,Middle East,MT,Pending,Wire Transfer
+74,Industrial and Commercial Bank of China,RAK Bank,1500.62,GBP,MT760,2018,Outgoing,FX Settlement,Caribbean,Middle East,MT,Cancelled,Wire Transfer
+75,HSBC,Commercial Bank of Dubai,2616799.0,JPY,MT910,2021,Incoming,Treasury Operations,South Asia,Middle East,MT,Completed,ACH
+76,Mashreq Bank,Abu Dhabi Islamic Bank,828262.92,AED,MT799,2016,Incoming,Corporate Payment,Asia Pacific,Middle East,MT,Completed,Wire Transfer
+77,HSBC,BNP Paribas,1395.73,EUR,MT940,2018,Incoming,Interbank Settlement,South Asia,Europe,MT,Completed,Wire Transfer
+78,Mashreq Bank,National Bank of Umm Al Qaiwain,192241.6,USD,MT202,2015,Outgoing,Trade Finance,Africa,Middle East,MT,Completed,Check
+79,UBS,Wells Fargo,14442.38,AUD,MT799,2021,Incoming,Treasury Operations,Asia Pacific,North America,MT,Completed,Credit Card
+80,Bank of China,United Arab Bank,1813.4,USD,MT950,2020,Incoming,FX Settlement,Middle East,Middle East,MT,Completed,ACH
+81,JPMorgan Chase,First Abu Dhabi Bank,33322.47,GBP,MT700,2017,Outgoing,Treasury Operations,Africa,Middle East,MT,Pending,Wire Transfer
+82,UBS,Commercial Bank of Dubai,22529.85,USD,MT103,2022,Outgoing,Trade Finance,Southeast Asia,Middle East,MT,Completed,Wire Transfer
+83,Industrial and Commercial Bank of China,Dubai Islamic Bank,15519.91,GBP,MT950,2019,Incoming,Retail Payment,North America,Southeast Asia,MT,Pending,Cash
+84,Citibank,RAK Bank,20952.62,AED,MT799,2016,Incoming,Loan Disbursement,Central Asia,Middle East,MT,Completed,ACH
+85,Dubai Islamic Bank,RAK Bank,15072.41,USD,MT700,2019,Outgoing,Retail Payment,Caribbean,Middle East,MT,Completed,Wire Transfer
+86,Mashreq Bank,National Bank of Umm Al Qaiwain,26666.19,USD,MT202,2023,Incoming,Retail Payment,Asia Pacific,Middle East,MT,Completed,ACH
+87,Standard Chartered,National Bank of Umm Al Qaiwain,8351.03,USD,MT103,2019,Outgoing,Interbank Settlement,South Asia,Middle East,MT,Completed,Wire Transfer
+88,JPMorgan Chase,National Bank of Fujairah,3696.56,EUR,MT940,2019,Incoming,Loan Disbursement,Latin America,Middle East,MT,Completed,ACH
+89,Barclays,RAK Bank,4647.71,USD,MT910,2015,Incoming,Corporate Payment,Europe,Middle East,MT,Completed,Cash
+90,First Abu Dhabi Bank,Commercial Bank of Dubai,12416.85,GBP,MT103,2019,Outgoing,Investment,Africa,Middle East,MT,Completed,ACH
+91,Bank of China,Dubai Islamic Bank,72854.99,USD,MT910,2015,Outgoing,Investment,Central Asia,Middle East,MT,Completed,SWIFT
+92,HSBC,United Arab Bank,23278.54,EUR,MT700,2021,Outgoing,Interbank Settlement,Africa,Middle East,MT,Pending,Wire Transfer
+93,Bank of Tokyo-Mitsubishi UFJ,Dubai Islamic Bank,33511.23,USD,MT940,2015,Outgoing,Corporate Payment,Latin America,Middle East,MT,Completed,SWIFT
+94,Emirates NBD,Dubai Islamic Bank,360.89,USD,MT700,2015,Outgoing,Investment,Europe,Middle East,MT,Pending,SWIFT
+95,Standard Chartered,Abu Dhabi Islamic Bank,2022.31,GBP,MT760,2020,Outgoing,Loan Disbursement,Africa,Middle East,MT,Completed,Wire Transfer
+96,Credit Suisse,United Arab Bank,26422.6,EUR,MT910,2018,Outgoing,Retail Payment,North America,Middle East,MT,Completed,ACH
+97,Abu Dhabi Commercial Bank,Goldman Sachs,28412.77,USD,MT700,2019,Outgoing,FX Settlement,Latin America,Latin America,MT,Completed,Wire Transfer
+98,Barclays,United Arab Bank,92436.99,AED,MT910,2019,Incoming,Investment,Asia Pacific,Middle East,MT,Completed,Check
+99,Standard Chartered,First Abu Dhabi Bank,34018.59,USD,MT799,2016,Incoming,Trade Finance,Europe,Middle East,MT,Completed,ACH
+100,BNP Paribas,Credit Suisse,371542.72,GBP,MT103,2015,Outgoing,Loan Disbursement,North America,Asia Pacific,MT,Completed,Credit Card
+101,Citibank,Abu Dhabi Islamic Bank,7182.04,USD,MT940,2019,Outgoing,Investment,Latin America,Middle East,MT,Completed,Wire Transfer
+102,Goldman Sachs,RAK Bank,17938.36,GBP,MT760,2019,Outgoing,Loan Disbursement,North America,Middle East,MT,Completed,SWIFT
+103,BNP Paribas,United Arab Bank,10603.16,USD,MT799,2019,Outgoing,Loan Disbursement,North America,Middle East,MT,Completed,SWIFT
+104,Bank of Tokyo-Mitsubishi UFJ,Abu Dhabi Commercial Bank,148141.39,AED,MT700,2022,Incoming,Trade Finance,Latin America,Middle East,MT,Completed,SWIFT
+105,Mashreq Bank,Bank of America,20337.36,EUR,MT799,2022,Outgoing,Interbank Settlement,Europe,South Asia,MT,Completed,Wire Transfer
+106,Goldman Sachs,First Abu Dhabi Bank,802923.63,EUR,MT202,2016,Outgoing,Retail Payment,Africa,Middle East,MT,Completed,ACH
+107,UBS,Barclays,11963.12,USD,MT700,2022,Incoming,Corporate Payment,Central Asia,Caribbean,MT,Completed,SWIFT
+108,Citibank,RAK Bank,249413.0,JPY,MT760,2019,Incoming,Interbank Settlement,Middle East,Middle East,MT,Completed,Wire Transfer
+109,Standard Chartered,Credit Suisse,315059.83,EUR,MT799,2015,Incoming,FX Settlement,South Asia,North America,MT,Completed,Wire Transfer
+110,Citibank,Mashreq Bank,165732.46,AUD,MT910,2015,Incoming,Investment,Caribbean,Latin America,MT,Completed,ACH
+111,Bank of Tokyo-Mitsubishi UFJ,Goldman Sachs,7518.18,AED,MT202,2021,Incoming,Trade Finance,Africa,South Asia,MT,Completed,ACH
+112,JPMorgan Chase,Dubai Islamic Bank,156483.41,EUR,MT700,2019,Incoming,Corporate Payment,Caribbean,Middle East,MT,Completed,Wire Transfer
+113,HSBC,United Arab Bank,1965.17,EUR,MT700,2022,Incoming,FX Settlement,South Asia,Middle East,MT,Completed,Wire Transfer
+114,Deutsche Bank,Mashreq Bank,14896.73,CHF,MT103,2020,Outgoing,Loan Disbursement,Latin America,Middle East,MT,Completed,Wire Transfer
+115,Wells Fargo,Mashreq Bank,36518.69,EUR,MT760,2018,Incoming,Investment,Central Asia,Middle East,MT,Pending,SWIFT
+116,Citibank,Abu Dhabi Islamic Bank,19125.9,EUR,MT950,2015,Outgoing,Investment,North America,Middle East,MT,Completed,SWIFT
+117,Bank of China,RAK Bank,6796.0,AED,MT202,2019,Incoming,Investment,North America,Middle East,MT,Completed,Check
+118,Deutsche Bank,First Abu Dhabi Bank,63032.98,USD,MT103,2015,Incoming,Treasury Operations,Caribbean,Middle East,MT,Completed,Credit Card
+119,UBS,Emirates NBD,4163.6,USD,MT760,2019,Incoming,Corporate Payment,Caribbean,Asia Pacific,MT,Completed,ACH
+120,Citibank,National Bank of Fujairah,305103.29,USD,MT950,2021,Outgoing,Retail Payment,Central Asia,Middle East,MT,Completed,Wire Transfer
+121,Mashreq Bank,Mashreq Bank,46663.44,USD,MT202,2020,Outgoing,FX Settlement,Central Asia,Middle East,MT,Completed,Wire Transfer
+122,Dubai Islamic Bank,United Arab Bank,4537.41,CAD,MT760,2018,Outgoing,Investment,Africa,Middle East,MT,Completed,Wire Transfer
+123,Bank of China,Abu Dhabi Commercial Bank,30536.58,EUR,MT202,2017,Outgoing,Loan Disbursement,Africa,Middle East,MT,Completed,Mobile Payment
+124,UBS,Abu Dhabi Commercial Bank,3372.23,USD,MT940,2023,Incoming,Interbank Settlement,Africa,Middle East,MT,Completed,ACH
+125,Credit Suisse,Abu Dhabi Commercial Bank,12702.32,AUD,MT760,2016,Incoming,Trade Finance,Southeast Asia,Middle East,MT,Completed,Wire Transfer
+126,Dubai Islamic Bank,Abu Dhabi Islamic Bank,164191.18,AED,MT103,2020,Incoming,Retail Payment,North America,Middle East,MT,Completed,Wire Transfer
+127,Barclays,Abu Dhabi Commercial Bank,2915.28,USD,MT700,2023,Incoming,Interbank Settlement,Southeast Asia,Middle East,MT,Completed,ACH
+128,First Abu Dhabi Bank,Abu Dhabi Commercial Bank,67164.23,USD,MT700,2017,Incoming,Corporate Payment,Africa,Middle East,MT,Cancelled,SWIFT
+129,Credit Suisse,Deutsche Bank,1637289.58,AED,MT940,2017,Outgoing,Corporate Payment,Latin America,Europe,MT,Completed,Wire Transfer
+130,Deutsche Bank,United Arab Bank,54932.94,EUR,MT760,2016,Outgoing,Trade Finance,Africa,Middle East,MT,Cancelled,Credit Card
+131,First Abu Dhabi Bank,Emirates NBD,1183.43,EUR,MT950,2018,Incoming,Interbank Settlement,Latin America,Middle East,MT,Failed,ACH
+132,Goldman Sachs,Mashreq Bank,2423.46,GBP,MT202,2020,Outgoing,Treasury Operations,Central Asia,Middle East,MT,Completed,Wire Transfer
+133,Bank of America,Emirates NBD,67646.58,CNY,MT940,2016,Outgoing,FX Settlement,Latin America,Middle East,MT,Completed,Cash
+134,Citibank,Sharjah Islamic Bank,209286.09,USD,MT760,2021,Outgoing,Retail Payment,Middle East,Middle East,MT,Completed,Wire Transfer
+135,First Abu Dhabi Bank,United Arab Bank,123489.32,USD,MT103,2022,Incoming,Trade Finance,North America,Middle East,MT,Completed,Mobile Payment
+136,Emirates NBD,RAK Bank,6520.56,EUR,MT940,2021,Outgoing,Retail Payment,Europe,Middle East,MT,Completed,Credit Card
+137,Abu Dhabi Commercial Bank,Morgan Stanley,1565.09,USD,MT700,2015,Outgoing,Treasury Operations,North America,Caribbean,MT,Completed,SWIFT
+138,Industrial and Commercial Bank of China,Mashreq Bank,449726.31,AED,MT940,2020,Outgoing,Trade Finance,Caribbean,South Asia,MT,Completed,SWIFT
+139,Bank of China,Commercial Bank of Dubai,168092.17,USD,MT202,2020,Outgoing,FX Settlement,Southeast Asia,Middle East,MT,Completed,Wire Transfer
+140,Industrial and Commercial Bank of China,Abu Dhabi Islamic Bank,87592.01,EUR,MT910,2016,Incoming,Loan Disbursement,Africa,Middle East,MT,Pending,Mobile Payment
+141,Goldman Sachs,RAK Bank,439677.08,AED,MT202,2022,Outgoing,Corporate Payment,Caribbean,Middle East,MT,Completed,ACH
+142,JPMorgan Chase,National Bank of Umm Al Qaiwain,19523.54,USD,MT202,2021,Outgoing,Treasury Operations,Central Asia,Middle East,MT,Completed,SWIFT
+143,Abu Dhabi Commercial Bank,Abu Dhabi Islamic Bank,150098.52,AED,MT103,2017,Outgoing,Corporate Payment,North America,Middle East,MT,Completed,Mobile Payment
+144,UBS,First Abu Dhabi Bank,1218.62,USD,MT202,2016,Incoming,Investment,Caribbean,Europe,MT,Pending,Credit Card
+145,Wells Fargo,First Abu Dhabi Bank,18052.96,EUR,MT760,2017,Outgoing,Trade Finance,Southeast Asia,Middle East,MT,Completed,Check
+146,BNP Paribas,Dubai Islamic Bank,35149.13,AED,MT910,2019,Outgoing,Retail Payment,Central Asia,Middle East,MT,Completed,Wire Transfer
+147,Bank of America,Abu Dhabi Commercial Bank,908.5,GBP,MT760,2015,Outgoing,Corporate Payment,Africa,Middle East,MT,Completed,Credit Card
+148,Emirates NBD,Deutsche Bank,360078.0,JPY,MT910,2016,Incoming,Retail Payment,Europe,Central Asia,MT,Completed,ACH
+149,Morgan Stanley,Dubai Islamic Bank,107811.05,EUR,MT202,2022,Outgoing,Corporate Payment,South Asia,Middle East,MT,Completed,Mobile Payment
+150,Industrial and Commercial Bank of China,Sharjah Islamic Bank,919747.54,AED,MT910,2015,Outgoing,Treasury Operations,Latin America,Middle East,MT,Failed,SWIFT
+151,Industrial and Commercial Bank of China,Credit Suisse,56793.06,USD,MT700,2016,Incoming,Corporate Payment,North America,Asia Pacific,MT,Completed,Wire Transfer
+152,JPMorgan Chase,Commercial Bank of Dubai,655452.55,GBP,MT799,2020,Outgoing,Trade Finance,South Asia,Middle East,MT,Completed,Wire Transfer
+153,Standard Chartered,HSBC,1991.69,EUR,MT700,2023,Outgoing,Corporate Payment,Southeast Asia,Southeast Asia,MT,Pending,ACH
+154,Barclays,Standard Chartered,6395.8,EUR,MT940,2018,Incoming,FX Settlement,Africa,Europe,MT,Completed,SWIFT
+155,Wells Fargo,Commercial Bank of Dubai,73037.13,EUR,MT950,2016,Incoming,FX Settlement,North America,Middle East,MT,Completed,Wire Transfer
+156,Goldman Sachs,Bank of China,23244.92,USD,MT700,2023,Outgoing,FX Settlement,South Asia,South Asia,MT,Pending,ACH
+157,First Abu Dhabi Bank,National Bank of Fujairah,547307.0,JPY,MT799,2016,Incoming,Trade Finance,Asia Pacific,Middle East,MT,Completed,Wire Transfer
+158,UBS,Emirates NBD,197154.86,AED,MT940,2019,Incoming,Interbank Settlement,Europe,Latin America,MT,Completed,Check
+159,Abu Dhabi Commercial Bank,BNP Paribas,75104.0,AUD,MT103,2020,Incoming,Loan Disbursement,Europe,Europe,MT,Completed,ACH
+160,First Abu Dhabi Bank,First Abu Dhabi Bank,2358.8,USD,MT700,2016,Incoming,Loan Disbursement,Southeast Asia,Middle East,MT,Completed,Wire Transfer
+161,HSBC,National Bank of Umm Al Qaiwain,54821.89,USD,MT760,2015,Incoming,FX Settlement,Middle East,Middle East,MT,Completed,Wire Transfer
+162,Industrial and Commercial Bank of China,National Bank of Umm Al Qaiwain,29141.36,USD,MT202,2022,Incoming,Trade Finance,Latin America,Middle East,MT,Completed,Wire Transfer
+163,Wells Fargo,Abu Dhabi Commercial Bank,387737.56,EUR,MT760,2023,Outgoing,Treasury Operations,North America,Middle East,MT,Completed,ACH
+164,Mashreq Bank,First Abu Dhabi Bank,7260.39,USD,MT940,2020,Incoming,Corporate Payment,Europe,Middle East,MT,Failed,Wire Transfer
+165,Industrial and Commercial Bank of China,JPMorgan Chase,31963.17,GBP,MT760,2019,Incoming,Corporate Payment,Middle East,Southeast Asia,MT,Completed,Wire Transfer
+166,JPMorgan Chase,Emirates NBD,10372.56,CAD,MT950,2018,Incoming,Treasury Operations,Africa,Middle East,MT,Pending,Mobile Payment
+167,Standard Chartered,Royal Bank of Canada,13153.82,USD,MT202,2021,Incoming,Investment,Europe,Caribbean,MT,Completed,Cash
+168,Industrial and Commercial Bank of China,National Bank of Fujairah,825715.76,AED,MT202,2018,Outgoing,Interbank Settlement,Central Asia,Middle East,MT,Completed,ACH
+169,Industrial and Commercial Bank of China,Mashreq Bank,14757.37,EUR,MT940,2022,Outgoing,Treasury Operations,Africa,Middle East,MT,Completed,Credit Card
+170,JPMorgan Chase,Royal Bank of Canada,3714.64,USD,MT940,2019,Outgoing,Investment,Middle East,Southeast Asia,MT,Completed,Wire Transfer
+171,Deutsche Bank,National Bank of Fujairah,42915.26,USD,MT202,2015,Incoming,FX Settlement,North America,Middle East,MT,Completed,ACH
+172,Wells Fargo,Abu Dhabi Commercial Bank,4206.76,EUR,MT940,2021,Incoming,FX Settlement,South Asia,Middle East,MT,Failed,ACH
+173,Deutsche Bank,UBS,90198.87,USD,MT760,2023,Outgoing,Investment,Latin America,South Asia,MT,Completed,ACH
+174,Morgan Stanley,Emirates NBD,66602.77,EUR,MT950,2019,Incoming,Interbank Settlement,North America,Middle East,MT,Completed,Wire Transfer
+175,Citibank,National Bank of Fujairah,14709.09,USD,MT910,2015,Outgoing,Corporate Payment,Latin America,Middle East,MT,Completed,ACH
+176,Dubai Islamic Bank,Sharjah Islamic Bank,71038.98,AED,MT202,2019,Incoming,Loan Disbursement,North America,Middle East,MT,Completed,ACH
+177,JPMorgan Chase,BNP Paribas,33369083.0,JPY,MT202,2019,Incoming,Investment,Middle East,Southeast Asia,MT,Completed,SWIFT
+178,BNP Paribas,United Arab Bank,3768015.0,JPY,MT760,2023,Incoming,Corporate Payment,Latin America,Middle East,MT,Completed,Wire Transfer
+179,JPMorgan Chase,National Bank of Fujairah,57949.26,AED,MT760,2022,Outgoing,Interbank Settlement,South Asia,Middle East,MT,Completed,Wire Transfer
+180,Goldman Sachs,Dubai Islamic Bank,13074.41,AED,MT799,2015,Outgoing,Treasury Operations,Caribbean,Africa,MT,Completed,Wire Transfer
+181,Abu Dhabi Commercial Bank,Abu Dhabi Commercial Bank,39993.32,EUR,MT760,2023,Incoming,Retail Payment,Asia Pacific,Middle East,MT,Completed,Wire Transfer
+182,Bank of Tokyo-Mitsubishi UFJ,Emirates NBD,4040.3,AED,MT103,2023,Incoming,Treasury Operations,Southeast Asia,Middle East,MT,Completed,ACH
+183,Morgan Stanley,Mashreq Bank,3502.92,AUD,MT950,2021,Incoming,Trade Finance,Asia Pacific,Middle East,MT,Completed,Wire Transfer
+184,Bank of America,Sharjah Islamic Bank,8987.87,AED,MT950,2020,Incoming,Corporate Payment,Europe,Middle East,MT,Pending,Cash
+185,BNP Paribas,Emirates NBD,73185.12,USD,MT799,2023,Incoming,FX Settlement,Africa,Asia Pacific,MT,Completed,Wire Transfer
+186,JPMorgan Chase,Sharjah Islamic Bank,105778.61,AED,MT950,2017,Incoming,Loan Disbursement,Southeast Asia,Middle East,MT,Completed,Wire Transfer
+187,Dubai Islamic Bank,Abu Dhabi Commercial Bank,30429.91,EUR,MT910,2022,Incoming,Interbank Settlement,Central Asia,Middle East,MT,Completed,SWIFT
+188,Morgan Stanley,Abu Dhabi Commercial Bank,14225.12,USD,MT103,2020,Outgoing,Trade Finance,South Asia,Middle East,MT,Completed,Wire Transfer
+189,JPMorgan Chase,Mashreq Bank,19202.75,EUR,MT760,2018,Outgoing,Loan Disbursement,Southeast Asia,Middle East,MT,Failed,ACH
+190,Dubai Islamic Bank,Sharjah Islamic Bank,16266.01,EUR,MT760,2023,Incoming,Trade Finance,North America,Middle East,MT,Completed,SWIFT
+191,Barclays,United Arab Bank,2362.71,GBP,MT940,2015,Outgoing,Interbank Settlement,Africa,Middle East,MT,Completed,Wire Transfer
+192,Abu Dhabi Commercial Bank,Bank of China,2278.12,USD,MT799,2021,Incoming,Corporate Payment,Europe,Caribbean,MT,Completed,Wire Transfer
+193,Standard Chartered,Dubai Islamic Bank,27550.22,USD,MT799,2023,Outgoing,Retail Payment,Africa,Middle East,MT,Completed,Wire Transfer
+194,Goldman Sachs,National Bank of Umm Al Qaiwain,10758.81,USD,MT799,2022,Incoming,FX Settlement,Europe,Middle East,MT,Completed,Wire Transfer
+195,BNP Paribas,RAK Bank,706.94,GBP,MT760,2018,Outgoing,FX Settlement,Middle East,Middle East,MT,Completed,Wire Transfer
+196,UBS,National Bank of Umm Al Qaiwain,1354505.77,GBP,MT202,2021,Outgoing,Trade Finance,Caribbean,Middle East,MT,Completed,Wire Transfer
+197,Deutsche Bank,Mashreq Bank,18877.65,USD,MT202,2021,Incoming,Loan Disbursement,Central Asia,Middle East,MT,Completed,Wire Transfer
+198,Barclays,Mashreq Bank,15869.06,GBP,MT700,2015,Outgoing,FX Settlement,Africa,Africa,MT,Completed,ACH
+199,Credit Suisse,Sharjah Islamic Bank,3741.64,GBP,MT940,2018,Outgoing,Trade Finance,South Asia,Middle East,MT,Pending,SWIFT
+200,First Abu Dhabi Bank,Credit Suisse,9676.64,EUR,MT103,2023,Outgoing,Interbank Settlement,Europe,Latin America,MT,Completed,ACH
+201,Dubai Islamic Bank,Dubai Islamic Bank,388703.39,AED,MT103,2019,Outgoing,Retail Payment,North America,Middle East,MT,Completed,Wire Transfer
+202,Bank of Tokyo-Mitsubishi UFJ,Abu Dhabi Islamic Bank,51788.61,USD,MT940,2017,Outgoing,Interbank Settlement,Southeast Asia,Middle East,MT,Completed,Wire Transfer
+203,Royal Bank of Canada,First Abu Dhabi Bank,4978.64,USD,MT103,2023,Outgoing,Interbank Settlement,Latin America,Middle East,MT,Pending,Cash
+204,JPMorgan Chase,RAK Bank,653.43,GBP,MT202,2019,Incoming,Investment,South Asia,Middle East,MT,Completed,ACH
+205,Barclays,Abu Dhabi Commercial Bank,11143.74,USD,MT760,2017,Outgoing,Corporate Payment,Africa,Middle East,MT,Pending,Cash
+206,Bank of America,United Arab Bank,78455.65,AED,MT910,2017,Incoming,Corporate Payment,Africa,Middle East,MT,Completed,Wire Transfer
+207,Bank of China,Mashreq Bank,15077.69,CNY,MT940,2017,Incoming,Treasury Operations,Latin America,Middle East,MT,Completed,ACH
+208,Dubai Islamic Bank,Dubai Islamic Bank,39661.13,USD,MT760,2023,Incoming,Retail Payment,Asia Pacific,Middle East,MT,Completed,ACH
+209,UBS,Dubai Islamic Bank,7515.33,AUD,MT202,2022,Outgoing,Investment,Caribbean,Middle East,MT,Completed,Wire Transfer
+210,UBS,Abu Dhabi Islamic Bank,193978.18,EUR,MT940,2020,Outgoing,FX Settlement,North America,Middle East,MT,Completed,ACH
+211,UBS,RAK Bank,78490.66,AED,MT103,2023,Incoming,FX Settlement,Southeast Asia,Middle East,MT,Completed,ACH
+212,First Abu Dhabi Bank,Abu Dhabi Islamic Bank,37837.38,GBP,MT799,2023,Incoming,Interbank Settlement,South Asia,Middle East,MT,Completed,Wire Transfer
+213,Mashreq Bank,UBS,123516.45,CHF,MT950,2017,Outgoing,Corporate Payment,Africa,South Asia,MT,Completed,Wire Transfer
+214,Goldman Sachs,Dubai Islamic Bank,11921.81,EUR,MT202,2015,Outgoing,Corporate Payment,Asia Pacific,Middle East,MT,Completed,SWIFT
+215,Citibank,Abu Dhabi Islamic Bank,13613.17,AED,MT202,2020,Outgoing,Loan Disbursement,Africa,Middle East,MT,Completed,Mobile Payment
+216,Bank of China,Mashreq Bank,26292.76,GBP,MT760,2016,Outgoing,FX Settlement,Southeast Asia,Middle East,MT,Completed,Wire Transfer
+217,First Abu Dhabi Bank,National Bank of Fujairah,35297.78,USD,MT799,2022,Incoming,Retail Payment,Southeast Asia,Middle East,MT,Completed,Wire Transfer
+218,BNP Paribas,National Bank of Fujairah,16468.3,GBP,MT940,2020,Incoming,Interbank Settlement,Asia Pacific,Middle East,MT,Completed,Wire Transfer
+219,Deutsche Bank,Sharjah Islamic Bank,28386.99,USD,MT799,2019,Outgoing,Interbank Settlement,Asia Pacific,Middle East,MT,Completed,SWIFT
+220,Citibank,United Arab Bank,32123.93,USD,MT940,2021,Incoming,Treasury Operations,North America,Middle East,MT,Cancelled,Wire Transfer
+221,Standard Chartered,First Abu Dhabi Bank,42584.9,GBP,MT760,2016,Outgoing,Corporate Payment,Asia Pacific,Latin America,MT,Completed,Credit Card
+222,HSBC,Abu Dhabi Islamic Bank,2132.55,USD,MT910,2017,Outgoing,Retail Payment,Europe,Middle East,MT,Completed,Wire Transfer
+223,Morgan Stanley,RAK Bank,6390.37,CAD,MT799,2022,Outgoing,Loan Disbursement,South Asia,Middle East,MT,Completed,Wire Transfer
+224,UBS,National Bank of Fujairah,102986.33,AED,MT760,2020,Outgoing,FX Settlement,Central Asia,Middle East,MT,Pending,ACH
+225,Bank of China,First Abu Dhabi Bank,4279.24,SGD,MT950,2021,Incoming,Interbank Settlement,North America,Central Asia,MT,Completed,Check
+226,Royal Bank of Canada,Morgan Stanley,13703.24,USD,MT950,2023,Outgoing,FX Settlement,North America,Caribbean,MT,Completed,ACH
+227,Abu Dhabi Commercial Bank,Commercial Bank of Dubai,14239.73,USD,MT103,2021,Outgoing,Corporate Payment,South Asia,Middle East,MT,Pending,ACH
+228,Emirates NBD,First Abu Dhabi Bank,11947.36,USD,MT940,2018,Incoming,Interbank Settlement,Europe,Middle East,MT,Completed,Credit Card
+229,JPMorgan Chase,Commercial Bank of Dubai,3211115.0,JPY,MT202,2017,Incoming,Loan Disbursement,North America,Middle East,MT,Completed,Wire Transfer
+230,Wells Fargo,First Abu Dhabi Bank,16481.47,GBP,MT202,2019,Incoming,Investment,Latin America,Middle East,MT,Completed,Cash
+231,BNP Paribas,Dubai Islamic Bank,9707.07,USD,MT700,2016,Incoming,Retail Payment,Europe,Middle East,MT,Completed,Wire Transfer
+232,Wells Fargo,UBS,81559.17,EUR,MT799,2020,Incoming,Trade Finance,Middle East,Southeast Asia,MT,Completed,SWIFT
+233,Citibank,Commercial Bank of Dubai,10153.93,CAD,MT910,2020,Outgoing,Treasury Operations,Africa,Middle East,MT,Completed,ACH
+234,Royal Bank of Canada,Abu Dhabi Commercial Bank,75746.32,EUR,MT940,2019,Incoming,Treasury Operations,Middle East,Middle East,MT,Completed,Wire Transfer
+235,Deutsche Bank,United Arab Bank,218846.59,USD,MT700,2016,Outgoing,Retail Payment,Europe,Middle East,MT,Pending,Cash
+236,HSBC,United Arab Bank,502994.46,AED,MT940,2023,Incoming,Loan Disbursement,South Asia,Middle East,MT,Completed,Wire Transfer
+237,Credit Suisse,First Abu Dhabi Bank,5206.51,GBP,MT103,2020,Incoming,Interbank Settlement,Caribbean,Middle East,MT,Completed,Wire Transfer
+238,Standard Chartered,Abu Dhabi Islamic Bank,9502.57,USD,MT799,2016,Incoming,Interbank Settlement,Latin America,Middle East,MT,Completed,ACH
+239,Standard Chartered,Dubai Islamic Bank,288309.72,USD,MT700,2015,Incoming,Investment,Caribbean,Middle East,MT,Completed,Wire Transfer
+240,Bank of Tokyo-Mitsubishi UFJ,Mashreq Bank,4495.9,USD,MT202,2021,Incoming,Retail Payment,Africa,Middle East,MT,Completed,ACH
+241,Mashreq Bank,Mashreq Bank,8251.2,EUR,MT103,2019,Outgoing,Treasury Operations,Southeast Asia,Middle East,MT,Completed,Wire Transfer
+242,Royal Bank of Canada,Mashreq Bank,145495.09,AED,MT799,2020,Incoming,Interbank Settlement,North America,Middle East,MT,Completed,Wire Transfer
+243,Emirates NBD,Mashreq Bank,3679.05,USD,MT760,2022,Incoming,FX Settlement,Asia Pacific,Middle East,MT,Completed,Wire Transfer
+244,Morgan Stanley,Commercial Bank of Dubai,20740.99,USD,MT202,2015,Outgoing,Trade Finance,South Asia,Middle East,MT,Completed,Wire Transfer
+245,Credit Suisse,National Bank of Fujairah,8880.18,USD,MT202,2023,Incoming,Corporate Payment,Central Asia,Middle East,MT,Completed,ACH
+246,Emirates NBD,Abu Dhabi Islamic Bank,255590.67,GBP,MT700,2019,Incoming,FX Settlement,North America,Middle East,MT,Completed,SWIFT
+247,First Abu Dhabi Bank,First Abu Dhabi Bank,8897.2,USD,MT940,2019,Outgoing,Trade Finance,Asia Pacific,Middle East,MT,Completed,Mobile Payment
+248,Industrial and Commercial Bank of China,Mashreq Bank,16709.87,EUR,MT950,2018,Incoming,Loan Disbursement,Middle East,Middle East,MT,Completed,Check
+249,Mashreq Bank,First Abu Dhabi Bank,4580.82,USD,MT799,2023,Outgoing,Investment,Latin America,Middle East,MT,Failed,Wire Transfer
+250,UBS,Deutsche Bank,49265.49,USD,MT950,2016,Incoming,Trade Finance,South Asia,North America,MT,Completed,ACH
+251,Wells Fargo,First Abu Dhabi Bank,123248.88,AED,MT103,2018,Outgoing,Corporate Payment,Caribbean,Middle East,MT,Completed,Wire Transfer
+252,Wells Fargo,Sharjah Islamic Bank,20166.14,AED,MT760,2018,Outgoing,FX Settlement,Europe,Middle East,MT,Completed,Wire Transfer
+253,Royal Bank of Canada,National Bank of Umm Al Qaiwain,31099.02,USD,MT950,2020,Outgoing,Investment,Southeast Asia,Middle East,MT,Completed,ACH
+254,Bank of Tokyo-Mitsubishi UFJ,Dubai Islamic Bank,5639.48,USD,MT799,2018,Incoming,FX Settlement,Asia Pacific,Middle East,MT,Completed,Wire Transfer
+255,Royal Bank of Canada,JPMorgan Chase,11075.75,EUR,MT799,2019,Outgoing,Investment,Africa,Central Asia,MT,Pending,Wire Transfer
+256,Dubai Islamic Bank,Barclays,50222.19,USD,MT950,2021,Outgoing,FX Settlement,Latin America,Central Asia,MT,Completed,Mobile Payment
+257,Bank of Tokyo-Mitsubishi UFJ,First Abu Dhabi Bank,35729.65,USD,MT202,2020,Outgoing,Loan Disbursement,Asia Pacific,Europe,MT,Completed,ACH
+258,Abu Dhabi Commercial Bank,Commercial Bank of Dubai,6727.67,EUR,MT799,2021,Outgoing,FX Settlement,Asia Pacific,Middle East,MT,Completed,ACH
+259,Goldman Sachs,Abu Dhabi Islamic Bank,51140.42,GBP,MT950,2019,Outgoing,Loan Disbursement,Central Asia,Middle East,MT,Completed,Wire Transfer
+260,Bank of China,RAK Bank,39016.41,USD,MT799,2017,Outgoing,Trade Finance,Middle East,Middle East,MT,Completed,Wire Transfer
+261,UBS,Abu Dhabi Commercial Bank,119513.66,AED,MT940,2019,Outgoing,Retail Payment,Europe,Middle East,MT,Completed,Cash
+262,First Abu Dhabi Bank,National Bank of Fujairah,2290.95,EUR,MT910,2023,Incoming,Corporate Payment,Southeast Asia,Middle East,MT,Completed,Wire Transfer
+263,Industrial and Commercial Bank of China,National Bank of Fujairah,18371.9,USD,MT700,2019,Outgoing,Loan Disbursement,Latin America,Middle East,MT,Completed,ACH
+264,Standard Chartered,Bank of America,151674.24,AED,MT950,2019,Incoming,Retail Payment,Southeast Asia,Africa,MT,Completed,Wire Transfer
+265,Royal Bank of Canada,Commercial Bank of Dubai,8198.52,AED,MT760,2022,Outgoing,Loan Disbursement,Caribbean,Middle East,MT,Completed,ACH
+266,Dubai Islamic Bank,First Abu Dhabi Bank,146367.54,USD,MT950,2016,Incoming,Loan Disbursement,Middle East,Middle East,MT,Failed,Wire Transfer
+267,HSBC,Abu Dhabi Commercial Bank,13911.48,USD,MT940,2016,Incoming,Retail Payment,Latin America,Middle East,MT,Completed,Check
+268,Abu Dhabi Commercial Bank,Sharjah Islamic Bank,89195.2,AED,MT940,2020,Incoming,FX Settlement,Asia Pacific,Middle East,MT,Completed,Check
+269,Bank of America,Abu Dhabi Islamic Bank,5904.89,USD,MT103,2021,Outgoing,Interbank Settlement,South Asia,Middle East,MT,Completed,SWIFT
+270,First Abu Dhabi Bank,Citibank,53426.29,GBP,MT760,2021,Incoming,Loan Disbursement,Latin America,North America,MT,Pending,Wire Transfer
+271,Emirates NBD,BNP Paribas,37580.87,USD,MT700,2017,Outgoing,Investment,Latin America,Southeast Asia,MT,Failed,Check
+272,Industrial and Commercial Bank of China,United Arab Bank,23694.83,USD,MT799,2018,Outgoing,Corporate Payment,Asia Pacific,Middle East,MT,Completed,ACH
+273,Goldman Sachs,Mashreq Bank,46487.85,AED,MT202,2021,Incoming,Treasury Operations,Middle East,Middle East,MT,Completed,Wire Transfer
+274,Bank of America,Abu Dhabi Islamic Bank,40241.61,CHF,MT700,2023,Outgoing,FX Settlement,South Asia,Middle East,MT,Completed,ACH
+275,Credit Suisse,Commercial Bank of Dubai,10976.58,USD,MT760,2021,Incoming,Trade Finance,Middle East,Middle East,MT,Completed,Wire Transfer
+276,Abu Dhabi Commercial Bank,Sharjah Islamic Bank,13106.63,USD,MT760,2022,Outgoing,Retail Payment,Caribbean,Middle East,MT,Completed,Wire Transfer
+277,UBS,Industrial and Commercial Bank of China,125534.12,USD,MT103,2021,Outgoing,Interbank Settlement,Central Asia,Caribbean,MT,Completed,SWIFT
+278,Wells Fargo,Sharjah Islamic Bank,13076.03,EUR,MT799,2015,Incoming,Corporate Payment,North America,Middle East,MT,Completed,Wire Transfer
+279,Deutsche Bank,Bank of China,37306.89,USD,MT950,2017,Outgoing,Treasury Operations,Southeast Asia,Europe,MT,Completed,ACH
+280,Dubai Islamic Bank,Standard Chartered,277850.97,USD,MT700,2016,Outgoing,Corporate Payment,Africa,Latin America,MT,Completed,Wire Transfer
+281,Goldman Sachs,First Abu Dhabi Bank,24834.52,USD,MT103,2018,Outgoing,Corporate Payment,Africa,Middle East,MT,Pending,Cash
+282,UBS,National Bank of Fujairah,3711807.0,JPY,MT940,2015,Outgoing,Trade Finance,Central Asia,Middle East,MT,Completed,Credit Card
+283,HSBC,National Bank of Umm Al Qaiwain,51889.91,AED,MT103,2019,Incoming,Investment,Latin America,Middle East,MT,Completed,Cash
+284,UBS,Bank of Tokyo-Mitsubishi UFJ,27680.22,CNY,MT950,2019,Outgoing,Corporate Payment,Southeast Asia,Latin America,MT,Completed,Wire Transfer
+285,Bank of China,First Abu Dhabi Bank,55755.5,USD,MT950,2021,Incoming,Interbank Settlement,Southeast Asia,Middle East,MT,Completed,Wire Transfer
+286,Goldman Sachs,Industrial and Commercial Bank of China,48226219.0,JPY,MT202,2020,Outgoing,Interbank Settlement,Middle East,Central Asia,MT,Completed,ACH
+287,Barclays,Mashreq Bank,5109.95,USD,MT799,2018,Outgoing,FX Settlement,Southeast Asia,Middle East,MT,Completed,Wire Transfer
+288,Industrial and Commercial Bank of China,HSBC,43881.41,USD,MT700,2019,Incoming,Interbank Settlement,North America,Southeast Asia,MT,Failed,Wire Transfer
+289,JPMorgan Chase,Commercial Bank of Dubai,6600.85,USD,MT700,2015,Outgoing,Treasury Operations,Asia Pacific,Middle East,MT,Completed,ACH
+290,Abu Dhabi Commercial Bank,Sharjah Islamic Bank,902.38,USD,MT760,2017,Incoming,Trade Finance,Middle East,Middle East,MT,Completed,ACH
+291,Barclays,Abu Dhabi Islamic Bank,397331.0,JPY,MT202,2019,Incoming,Interbank Settlement,Middle East,Middle East,MT,Completed,Credit Card
+292,HSBC,Abu Dhabi Islamic Bank,36889.57,GBP,MT799,2018,Outgoing,Retail Payment,Europe,Middle East,MT,Completed,Wire Transfer
+293,Deutsche Bank,Emirates NBD,11618.56,USD,MT950,2020,Incoming,FX Settlement,Africa,Middle East,MT,Completed,Wire Transfer
+294,Deutsche Bank,Commercial Bank of Dubai,2519733.0,JPY,MT103,2016,Incoming,Retail Payment,Caribbean,Middle East,MT,Completed,Wire Transfer
+295,First Abu Dhabi Bank,Bank of Tokyo-Mitsubishi UFJ,5520.54,SGD,MT202,2021,Outgoing,Retail Payment,Caribbean,Latin America,MT,Completed,Mobile Payment
+296,Standard Chartered,National Bank of Fujairah,128103.08,USD,MT760,2023,Outgoing,Interbank Settlement,Europe,Middle East,MT,Completed,SWIFT
+297,Standard Chartered,First Abu Dhabi Bank,134311.54,AED,MT202,2023,Incoming,Retail Payment,South Asia,Middle East,MT,Completed,Check
+298,Mashreq Bank,National Bank of Umm Al Qaiwain,12020.62,EUR,MT799,2023,Incoming,Corporate Payment,Latin America,Middle East,MT,Completed,Mobile Payment
+299,Bank of China,Bank of Tokyo-Mitsubishi UFJ,26982.12,EUR,MT202,2016,Outgoing,Retail Payment,Europe,South Asia,MT,Completed,ACH
+300,Bank of China,Commercial Bank of Dubai,40601.28,AED,MT760,2021,Outgoing,Investment,Asia Pacific,Middle East,MT,Completed,ACH
+301,Bank of China,Abu Dhabi Commercial Bank,132192.07,USD,MT940,2018,Incoming,Trade Finance,Middle East,Middle East,MT,Completed,Wire Transfer
+302,Barclays,Abu Dhabi Islamic Bank,4096.67,USD,MT940,2021,Outgoing,Interbank Settlement,Southeast Asia,Middle East,MT,Completed,ACH
+303,Deutsche Bank,Mashreq Bank,4761303.0,JPY,MT940,2018,Outgoing,Retail Payment,Europe,Middle East,MT,Pending,ACH
+304,Deutsche Bank,United Arab Bank,28835.79,USD,MT700,2018,Outgoing,Corporate Payment,Central Asia,Middle East,MT,Completed,ACH
+305,Dubai Islamic Bank,Dubai Islamic Bank,4490.44,EUR,MT940,2023,Incoming,Retail Payment,Middle East,Middle East,MT,Completed,Mobile Payment
+306,Barclays,RAK Bank,13968.71,USD,MT910,2021,Outgoing,Investment,South Asia,Middle East,MT,Failed,Credit Card
+307,Goldman Sachs,First Abu Dhabi Bank,66717.04,USD,MT940,2022,Incoming,Loan Disbursement,South Asia,Middle East,MT,Completed,SWIFT
+308,Goldman Sachs,Dubai Islamic Bank,55439.7,USD,MT910,2016,Outgoing,Treasury Operations,Middle East,Middle East,MT,Completed,SWIFT
+309,Credit Suisse,Emirates NBD,1107.3,EUR,MT700,2017,Outgoing,Retail Payment,South Asia,Middle East,MT,Completed,SWIFT
+310,Bank of America,National Bank of Umm Al Qaiwain,1412355.0,JPY,MT103,2021,Outgoing,Investment,Latin America,Middle East,MT,Completed,Wire Transfer
+311,Bank of China,Wells Fargo,67238.96,EUR,MT799,2016,Outgoing,FX Settlement,Middle East,Asia Pacific,MT,Completed,Wire Transfer
+312,Abu Dhabi Commercial Bank,Emirates NBD,28952.56,AED,MT103,2023,Outgoing,Trade Finance,Middle East,Middle East,MT,Completed,SWIFT
+313,HSBC,Citibank,381.9,USD,MT760,2023,Incoming,Loan Disbursement,South Asia,South Asia,MT,Completed,SWIFT
+314,Morgan Stanley,Commercial Bank of Dubai,45666.98,GBP,MT700,2019,Incoming,Interbank Settlement,South Asia,Middle East,MT,Completed,Wire Transfer
+315,Bank of America,Abu Dhabi Islamic Bank,5175.82,USD,MT799,2023,Outgoing,Investment,Europe,Middle East,MT,Pending,Mobile Payment
+316,Credit Suisse,Emirates NBD,23045.88,USD,MT910,2018,Incoming,Investment,South Asia,Middle East,MT,Completed,Wire Transfer
+317,Abu Dhabi Commercial Bank,Commercial Bank of Dubai,15830.73,USD,MT700,2019,Incoming,Treasury Operations,Middle East,Middle East,MT,Pending,Wire Transfer
+318,First Abu Dhabi Bank,Commercial Bank of Dubai,99051.0,JPY,MT103,2018,Incoming,FX Settlement,Middle East,Middle East,MT,Completed,SWIFT
+319,BNP Paribas,Mashreq Bank,2499.72,USD,MT910,2019,Incoming,Trade Finance,South Asia,Middle East,MT,Completed,Wire Transfer
+320,Industrial and Commercial Bank of China,Credit Suisse,13696.15,USD,MT700,2019,Outgoing,Loan Disbursement,Caribbean,North America,MT,Completed,Wire Transfer
+321,First Abu Dhabi Bank,Emirates NBD,68676.29,USD,MT950,2022,Incoming,Retail Payment,Central Asia,Asia Pacific,MT,Completed,Wire Transfer
+322,Royal Bank of Canada,First Abu Dhabi Bank,70924.29,AED,MT940,2018,Incoming,Corporate Payment,Africa,North America,MT,Completed,SWIFT
+323,Dubai Islamic Bank,Abu Dhabi Islamic Bank,74314.06,USD,MT760,2015,Incoming,Corporate Payment,Europe,Middle East,MT,Completed,ACH
+324,Citibank,Dubai Islamic Bank,49156.3,USD,MT700,2022,Outgoing,Interbank Settlement,Central Asia,Middle East,MT,Completed,SWIFT
+325,Citibank,First Abu Dhabi Bank,35603.67,GBP,MT103,2020,Incoming,Corporate Payment,Asia Pacific,Asia Pacific,MT,Pending,ACH
+326,UBS,Abu Dhabi Commercial Bank,17112.04,USD,MT103,2021,Outgoing,Loan Disbursement,Asia Pacific,Middle East,MT,Completed,Wire Transfer
+327,Royal Bank of Canada,Abu Dhabi Commercial Bank,150715.37,SGD,MT202,2016,Outgoing,Trade Finance,Asia Pacific,Middle East,MT,Completed,Credit Card
+328,First Abu Dhabi Bank,Sharjah Islamic Bank,26246.92,CHF,MT910,2016,Outgoing,Loan Disbursement,South Asia,Middle East,MT,Completed,Wire Transfer
+329,Deutsche Bank,National Bank of Umm Al Qaiwain,90164.78,EUR,MT799,2021,Outgoing,Trade Finance,Africa,Middle East,MT,Completed,Credit Card
+330,Abu Dhabi Commercial Bank,HSBC,11320.69,EUR,MT760,2016,Outgoing,Trade Finance,Caribbean,Asia Pacific,MT,Completed,ACH
+331,Bank of China,Sharjah Islamic Bank,14637.74,USD,MT950,2018,Outgoing,Corporate Payment,Central Asia,Middle East,MT,Completed,Credit Card
+332,BNP Paribas,Dubai Islamic Bank,19685.42,USD,MT103,2021,Outgoing,Loan Disbursement,Middle East,Middle East,MT,Completed,Wire Transfer
+333,UBS,National Bank of Umm Al Qaiwain,126492.91,EUR,MT103,2022,Incoming,FX Settlement,Africa,Middle East,MT,Cancelled,ACH
+334,Bank of China,Dubai Islamic Bank,8866.89,EUR,MT910,2023,Outgoing,Loan Disbursement,Middle East,Middle East,MT,Completed,Wire Transfer
+335,Wells Fargo,Mashreq Bank,4137.63,USD,MT910,2015,Incoming,Retail Payment,Southeast Asia,Middle East,MT,Completed,Wire Transfer
+336,Deutsche Bank,United Arab Bank,25502.04,USD,MT799,2016,Incoming,Corporate Payment,Africa,Middle East,MT,Completed,ACH
+337,Standard Chartered,Emirates NBD,430.23,SGD,MT103,2017,Outgoing,Treasury Operations,Middle East,Latin America,MT,Completed,Wire Transfer
+338,Bank of China,Commercial Bank of Dubai,3000.32,EUR,MT799,2020,Outgoing,Trade Finance,Europe,Middle East,MT,Completed,ACH
+339,Royal Bank of Canada,United Arab Bank,42205.33,AED,MT799,2020,Outgoing,Corporate Payment,North America,Middle East,MT,Completed,Wire Transfer
+340,Abu Dhabi Commercial Bank,Mashreq Bank,101710.61,CAD,MT940,2020,Incoming,Retail Payment,North America,Middle East,MT,Pending,Wire Transfer
+341,JPMorgan Chase,Abu Dhabi Commercial Bank,495.01,SGD,MT760,2017,Incoming,FX Settlement,Latin America,Middle East,MT,Completed,SWIFT
+342,Goldman Sachs,Mashreq Bank,52637.56,AED,MT950,2019,Incoming,Treasury Operations,North America,Middle East,MT,Completed,ACH
+343,Bank of Tokyo-Mitsubishi UFJ,First Abu Dhabi Bank,27568.36,EUR,MT910,2023,Outgoing,Loan Disbursement,Latin America,Middle East,MT,Pending,ACH
+344,Emirates NBD,Abu Dhabi Islamic Bank,4772.65,USD,MT103,2015,Incoming,Interbank Settlement,South Asia,Middle East,MT,Completed,ACH
+345,Abu Dhabi Commercial Bank,Deutsche Bank,22655.78,USD,MT760,2023,Incoming,Investment,Caribbean,North America,MT,Completed,Check
+346,Deutsche Bank,United Arab Bank,58721.89,USD,MT950,2022,Outgoing,Loan Disbursement,South Asia,Middle East,MT,Completed,Wire Transfer
+347,Industrial and Commercial Bank of China,First Abu Dhabi Bank,15955.98,EUR,MT940,2022,Outgoing,Loan Disbursement,Middle East,Middle East,MT,Completed,SWIFT
+348,JPMorgan Chase,Industrial and Commercial Bank of China,92293.7,USD,MT799,2023,Outgoing,Trade Finance,North America,Southeast Asia,MT,Completed,Credit Card
+349,Barclays,First Abu Dhabi Bank,4215.74,USD,MT940,2019,Incoming,Treasury Operations,Caribbean,Middle East,MT,Completed,SWIFT
+350,Bank of Tokyo-Mitsubishi UFJ,Commercial Bank of Dubai,22591.13,AED,MT910,2021,Incoming,Corporate Payment,Africa,Middle East,MT,Completed,ACH
+351,HSBC,National Bank of Fujairah,5758.75,CAD,MT940,2021,Outgoing,Retail Payment,Europe,Middle East,MT,Completed,ACH
+352,Industrial and Commercial Bank of China,RAK Bank,7895.6,USD,MT940,2017,Outgoing,Trade Finance,Middle East,Middle East,MT,Completed,SWIFT
+353,Citibank,Bank of China,4435977.0,JPY,MT700,2022,Incoming,Loan Disbursement,Central Asia,Latin America,MT,Completed,ACH
+354,HSBC,Dubai Islamic Bank,38809.66,EUR,MT910,2021,Outgoing,Retail Payment,Central Asia,Middle East,MT,Completed,Wire Transfer
+355,First Abu Dhabi Bank,Abu Dhabi Commercial Bank,39573.69,USD,MT202,2017,Incoming,Interbank Settlement,Latin America,Middle East,MT,Completed,Wire Transfer
+356,HSBC,Sharjah Islamic Bank,61505.41,EUR,MT940,2016,Outgoing,Interbank Settlement,Europe,Middle East,MT,Completed,Check
+357,Barclays,Abu Dhabi Islamic Bank,17459.04,CHF,MT799,2015,Outgoing,Treasury Operations,Caribbean,Middle East,MT,Completed,Wire Transfer
+358,Credit Suisse,Mashreq Bank,63013.51,USD,MT700,2022,Outgoing,Retail Payment,South Asia,Middle East,MT,Completed,SWIFT
+359,Industrial and Commercial Bank of China,UBS,6241.32,GBP,MT910,2015,Incoming,Interbank Settlement,Middle East,Africa,MT,Failed,Wire Transfer
+360,Mashreq Bank,Commercial Bank of Dubai,24862.59,EUR,MT760,2018,Outgoing,Retail Payment,Caribbean,Middle East,MT,Completed,ACH
+361,Abu Dhabi Commercial Bank,Abu Dhabi Islamic Bank,50732.72,USD,MT103,2020,Outgoing,Trade Finance,North America,Middle East,MT,Completed,Wire Transfer
+362,Wells Fargo,Commercial Bank of Dubai,273361.75,AED,MT940,2018,Incoming,Corporate Payment,Central Asia,Middle East,MT,Completed,Wire Transfer
+363,Standard Chartered,National Bank of Umm Al Qaiwain,6077.36,USD,MT103,2016,Outgoing,Retail Payment,South Asia,Middle East,MT,Completed,Credit Card
+364,Abu Dhabi Commercial Bank,Bank of America,119178.98,CHF,MT700,2021,Outgoing,Retail Payment,North America,Africa,MT,Completed,Cash
+365,Abu Dhabi Commercial Bank,First Abu Dhabi Bank,27876.09,EUR,MT103,2023,Incoming,Retail Payment,South Asia,Middle East,MT,Pending,SWIFT
+366,UBS,Abu Dhabi Islamic Bank,9189.92,USD,MT700,2023,Outgoing,Treasury Operations,North America,Middle East,MT,Completed,ACH
+367,Emirates NBD,Emirates NBD,39996.72,USD,MT760,2020,Outgoing,Retail Payment,Africa,Middle East,MT,Completed,SWIFT
+368,Standard Chartered,Commercial Bank of Dubai,27906.81,CAD,MT760,2020,Incoming,Trade Finance,Asia Pacific,Middle East,MT,Completed,ACH
+369,Wells Fargo,First Abu Dhabi Bank,37721.36,AED,MT202,2023,Outgoing,Treasury Operations,Middle East,Middle East,MT,Pending,ACH
+370,Bank of China,Credit Suisse,1764715.0,JPY,MT910,2020,Incoming,Investment,North America,Southeast Asia,MT,Completed,Wire Transfer
+371,First Abu Dhabi Bank,Dubai Islamic Bank,60435.34,USD,MT700,2016,Incoming,Investment,Africa,Europe,MT,Failed,ACH
+372,Bank of Tokyo-Mitsubishi UFJ,Commercial Bank of Dubai,14630.4,EUR,MT799,2023,Incoming,Retail Payment,Asia Pacific,Middle East,MT,Completed,SWIFT
+373,Industrial and Commercial Bank of China,Commercial Bank of Dubai,31095.19,USD,MT202,2015,Incoming,Treasury Operations,Africa,Middle East,MT,Completed,Credit Card
+374,HSBC,Wells Fargo,202770.31,CNY,MT700,2015,Outgoing,Retail Payment,Latin America,Africa,MT,Completed,Wire Transfer
+375,Bank of Tokyo-Mitsubishi UFJ,Dubai Islamic Bank,21399.21,CAD,MT760,2023,Incoming,Investment,North America,Middle East,MT,Completed,SWIFT
+376,Bank of China,Emirates NBD,12621.34,EUR,MT202,2018,Incoming,Retail Payment,Latin America,Middle East,MT,Completed,ACH
+377,Mashreq Bank,National Bank of Fujairah,12951.14,USD,MT799,2023,Outgoing,Trade Finance,Caribbean,Middle East,MT,Completed,ACH
+378,Morgan Stanley,National Bank of Fujairah,9317.01,USD,MT950,2021,Incoming,Retail Payment,Africa,Middle East,MT,Completed,Wire Transfer
+379,BNP Paribas,Dubai Islamic Bank,104841.4,AED,MT950,2021,Outgoing,Investment,Middle East,Middle East,MT,Completed,ACH
+380,Credit Suisse,HSBC,26995.11,EUR,MT940,2019,Incoming,Loan Disbursement,Southeast Asia,Europe,MT,Completed,Wire Transfer
+381,Barclays,National Bank of Fujairah,21895.18,GBP,MT700,2017,Outgoing,FX Settlement,Latin America,Middle East,MT,Completed,Wire Transfer
+382,Abu Dhabi Commercial Bank,Abu Dhabi Islamic Bank,2017.12,USD,MT202,2023,Outgoing,Corporate Payment,Asia Pacific,Middle East,MT,Completed,SWIFT
+383,Royal Bank of Canada,RAK Bank,2356.96,GBP,MT700,2022,Outgoing,Trade Finance,Middle East,Middle East,MT,Completed,SWIFT
+384,Bank of Tokyo-Mitsubishi UFJ,National Bank of Umm Al Qaiwain,199713.93,EUR,MT940,2016,Outgoing,Investment,Europe,Middle East,MT,Completed,ACH
+385,Wells Fargo,Mashreq Bank,2087.06,USD,MT103,2019,Incoming,Investment,Europe,Middle East,MT,Completed,Mobile Payment
+386,Royal Bank of Canada,Mashreq Bank,16136.51,GBP,MT910,2019,Incoming,Investment,Europe,Middle East,MT,Completed,Wire Transfer
+387,Dubai Islamic Bank,First Abu Dhabi Bank,16299.28,USD,MT700,2017,Incoming,Trade Finance,North America,Middle East,MT,Completed,Wire Transfer
+388,First Abu Dhabi Bank,Goldman Sachs,3469.57,USD,MT760,2022,Outgoing,Interbank Settlement,Central Asia,Caribbean,MT,Completed,SWIFT
+389,Abu Dhabi Commercial Bank,United Arab Bank,75723.46,USD,MT910,2015,Incoming,Corporate Payment,Southeast Asia,Middle East,MT,Completed,Wire Transfer
+390,Abu Dhabi Commercial Bank,First Abu Dhabi Bank,71636.79,AED,MT799,2020,Incoming,Trade Finance,Africa,Middle East,MT,Completed,Wire Transfer
+391,HSBC,Credit Suisse,7378.91,USD,MT700,2015,Outgoing,Trade Finance,Middle East,South Asia,MT,Completed,Wire Transfer
+392,Bank of Tokyo-Mitsubishi UFJ,Commercial Bank of Dubai,79553.68,GBP,MT799,2021,Incoming,Interbank Settlement,Africa,Middle East,MT,Completed,Wire Transfer
+393,UBS,United Arab Bank,88492.62,AED,MT910,2023,Outgoing,Retail Payment,South Asia,Middle East,MT,Completed,Check
+394,Abu Dhabi Commercial Bank,Sharjah Islamic Bank,3026.29,CHF,MT910,2022,Incoming,Loan Disbursement,Europe,Middle East,MT,Completed,Wire Transfer
+395,BNP Paribas,Wells Fargo,185239.43,CHF,MT103,2015,Outgoing,Retail Payment,Southeast Asia,Asia Pacific,MT,Completed,ACH
+396,Wells Fargo,Dubai Islamic Bank,8949.6,USD,MT799,2023,Outgoing,Corporate Payment,Middle East,Middle East,MT,Completed,Wire Transfer
+397,Citibank,Dubai Islamic Bank,22503.13,USD,MT103,2019,Outgoing,Corporate Payment,North America,Africa,MT,Completed,SWIFT
+398,HSBC,RAK Bank,5266.34,USD,MT799,2023,Incoming,Treasury Operations,Central Asia,Middle East,MT,Completed,Wire Transfer
+399,JPMorgan Chase,National Bank of Umm Al Qaiwain,6583.59,USD,MT940,2020,Outgoing,Loan Disbursement,Southeast Asia,Middle East,MT,Completed,SWIFT
+400,Royal Bank of Canada,Dubai Islamic Bank,340106.83,AED,MT760,2017,Outgoing,Corporate Payment,Middle East,Africa,MT,Completed,ACH
+401,Barclays,National Bank of Fujairah,67450.65,USD,MT910,2017,Outgoing,Retail Payment,Middle East,Middle East,MT,Pending,Wire Transfer
+402,JPMorgan Chase,Mashreq Bank,1635.87,EUR,MT940,2020,Incoming,Retail Payment,Central Asia,Middle East,MT,Completed,ACH
+403,Bank of America,Abu Dhabi Commercial Bank,30356.15,AED,MT202,2023,Outgoing,Trade Finance,Caribbean,Middle East,MT,Completed,Wire Transfer
+404,Morgan Stanley,Abu Dhabi Islamic Bank,135954.03,CNY,MT940,2018,Incoming,Treasury Operations,South Asia,Middle East,MT,Completed,ACH
+405,Bank of Tokyo-Mitsubishi UFJ,Commercial Bank of Dubai,7352.02,USD,MT700,2017,Incoming,Retail Payment,Latin America,Middle East,MT,Completed,Wire Transfer
+406,Abu Dhabi Commercial Bank,Commercial Bank of Dubai,17420.43,AED,MT760,2021,Outgoing,Trade Finance,Africa,Middle East,MT,Completed,Mobile Payment
+407,Wells Fargo,Standard Chartered,6118.61,USD,MT950,2022,Outgoing,Loan Disbursement,Latin America,Southeast Asia,MT,Completed,Wire Transfer
+408,Bank of China,RAK Bank,20229.63,AED,MT910,2020,Outgoing,FX Settlement,North America,Middle East,MT,Completed,SWIFT
+409,UBS,Sharjah Islamic Bank,1199.6,GBP,MT910,2023,Outgoing,Trade Finance,Middle East,Middle East,MT,Completed,Wire Transfer
+410,Mashreq Bank,Bank of Tokyo-Mitsubishi UFJ,26893.52,USD,MT103,2016,Outgoing,Trade Finance,Asia Pacific,Latin America,MT,Pending,Wire Transfer
+411,Credit Suisse,RAK Bank,12936.25,USD,MT910,2019,Outgoing,Loan Disbursement,Caribbean,Middle East,MT,Completed,ACH
+412,Industrial and Commercial Bank of China,Abu Dhabi Commercial Bank,45832.5,AED,MT799,2017,Outgoing,Treasury Operations,Latin America,Middle East,MT,Completed,Mobile Payment
+413,Morgan Stanley,Mashreq Bank,156286.11,AED,MT940,2016,Outgoing,Loan Disbursement,North America,Middle East,MT,Completed,Wire Transfer
+414,Mashreq Bank,Dubai Islamic Bank,260041.48,AED,MT950,2015,Incoming,Corporate Payment,North America,Middle East,MT,Completed,Wire Transfer
+415,Morgan Stanley,First Abu Dhabi Bank,20121.95,USD,MT700,2018,Outgoing,Retail Payment,Latin America,Middle East,MT,Completed,Wire Transfer
+416,Industrial and Commercial Bank of China,RAK Bank,43572.99,USD,MT103,2018,Outgoing,Retail Payment,Latin America,Middle East,MT,Completed,Wire Transfer
+417,Bank of China,First Abu Dhabi Bank,21874.22,GBP,MT760,2023,Outgoing,Corporate Payment,Central Asia,Middle East,MT,Completed,Wire Transfer
+418,Standard Chartered,Credit Suisse,31097.72,USD,MT940,2022,Outgoing,Corporate Payment,Caribbean,Central Asia,MT,Completed,ACH
+419,Wells Fargo,Royal Bank of Canada,24455.74,USD,MT700,2018,Outgoing,Retail Payment,North America,South Asia,MT,Completed,Wire Transfer
+420,Standard Chartered,Mashreq Bank,8436.76,USD,MT700,2020,Outgoing,Investment,Europe,Latin America,MT,Completed,Wire Transfer
+421,Goldman Sachs,Commercial Bank of Dubai,11517.73,USD,MT760,2021,Outgoing,Treasury Operations,Middle East,Middle East,MT,Completed,SWIFT
+422,Mashreq Bank,Abu Dhabi Islamic Bank,17240.54,USD,MT700,2015,Incoming,Investment,Central Asia,Middle East,MT,Failed,Wire Transfer
+423,Wells Fargo,UBS,3003.48,AUD,MT799,2016,Incoming,Investment,South Asia,Southeast Asia,MT,Completed,Wire Transfer
+424,Morgan Stanley,National Bank of Fujairah,24740.84,USD,MT103,2018,Incoming,Loan Disbursement,Asia Pacific,Middle East,MT,Completed,Wire Transfer
+425,JPMorgan Chase,Abu Dhabi Commercial Bank,91369.73,CAD,MT700,2015,Outgoing,Loan Disbursement,Latin America,Middle East,MT,Completed,ACH
+426,Credit Suisse,Commercial Bank of Dubai,2400.39,GBP,MT700,2017,Incoming,Retail Payment,Europe,Middle East,MT,Completed,Wire Transfer
+427,HSBC,Commercial Bank of Dubai,98438.28,GBP,MT103,2021,Outgoing,Interbank Settlement,Europe,Middle East,MT,Completed,ACH
+428,Citibank,Morgan Stanley,100761.7,USD,MT940,2018,Outgoing,Investment,Asia Pacific,Southeast Asia,MT,Completed,Wire Transfer
+429,Bank of Tokyo-Mitsubishi UFJ,Bank of America,7763.48,GBP,MT799,2015,Incoming,Loan Disbursement,North America,Europe,MT,Pending,ACH
+430,Goldman Sachs,Emirates NBD,17811.25,USD,MT103,2016,Outgoing,Investment,Southeast Asia,Middle East,MT,Completed,Wire Transfer
+431,Deutsche Bank,Commercial Bank of Dubai,22106.02,AED,MT940,2018,Outgoing,Interbank Settlement,Middle East,Middle East,MT,Completed,ACH
+432,Credit Suisse,United Arab Bank,17829.47,USD,MT950,2016,Incoming,Trade Finance,South Asia,Middle East,MT,Completed,Check
+433,Wells Fargo,Dubai Islamic Bank,195027.95,AED,MT940,2020,Incoming,Interbank Settlement,North America,Middle East,MT,Completed,ACH
+434,Standard Chartered,United Arab Bank,4053.31,USD,MT950,2016,Outgoing,Treasury Operations,Europe,Middle East,MT,Completed,Wire Transfer
+435,Citibank,United Arab Bank,1672.16,USD,MT202,2019,Incoming,Loan Disbursement,Asia Pacific,Middle East,MT,Completed,Wire Transfer
+436,First Abu Dhabi Bank,RAK Bank,149116.58,USD,MT202,2022,Incoming,Trade Finance,Caribbean,Middle East,MT,Completed,Wire Transfer
+437,Dubai Islamic Bank,RAK Bank,16687.9,CNY,MT910,2019,Outgoing,Trade Finance,Caribbean,Middle East,MT,Completed,Wire Transfer
+438,Citibank,Commercial Bank of Dubai,869642.0,JPY,MT202,2016,Incoming,Retail Payment,Africa,Middle East,MT,Completed,Wire Transfer
+439,Emirates NBD,United Arab Bank,7545.37,EUR,MT760,2022,Outgoing,Treasury Operations,Europe,Middle East,MT,Cancelled,SWIFT
+440,Bank of Tokyo-Mitsubishi UFJ,Emirates NBD,290415.19,USD,MT910,2020,Incoming,Loan Disbursement,Latin America,Southeast Asia,MT,Completed,Wire Transfer
+441,Mashreq Bank,Emirates NBD,7884.34,GBP,MT103,2022,Incoming,Investment,Africa,Middle East,MT,Completed,ACH
+442,Standard Chartered,Emirates NBD,192037.9,USD,MT799,2020,Incoming,Loan Disbursement,Asia Pacific,Middle East,MT,Completed,ACH
+443,Morgan Stanley,Goldman Sachs,16015.22,EUR,MT103,2016,Outgoing,Treasury Operations,Southeast Asia,Asia Pacific,MT,Completed,ACH
+444,First Abu Dhabi Bank,Mashreq Bank,70943.09,CAD,MT760,2019,Incoming,Corporate Payment,North America,Central Asia,MT,Completed,Wire Transfer
+445,BNP Paribas,Emirates NBD,57345.24,USD,MT799,2021,Outgoing,Loan Disbursement,Latin America,Middle East,MT,Completed,Check
+446,Standard Chartered,Sharjah Islamic Bank,1432724.0,JPY,MT760,2018,Outgoing,FX Settlement,Asia Pacific,Middle East,MT,Completed,Wire Transfer
+447,Bank of Tokyo-Mitsubishi UFJ,National Bank of Fujairah,44821.72,USD,MT910,2022,Incoming,Loan Disbursement,Caribbean,Middle East,MT,Completed,SWIFT
+448,Barclays,Mashreq Bank,20143.16,AED,MT910,2016,Incoming,Corporate Payment,Latin America,Middle East,MT,Completed,SWIFT
+449,Industrial and Commercial Bank of China,United Arab Bank,51995.48,USD,MT940,2021,Incoming,Retail Payment,Middle East,Middle East,MT,Cancelled,SWIFT
+450,UBS,National Bank of Umm Al Qaiwain,37161.76,USD,MT940,2021,Outgoing,Loan Disbursement,Latin America,Middle East,MT,Completed,ACH
+451,Bank of Tokyo-Mitsubishi UFJ,National Bank of Umm Al Qaiwain,27591.53,EUR,MT103,2023,Incoming,Trade Finance,Asia Pacific,Middle East,MT,Completed,Wire Transfer
+452,Barclays,Sharjah Islamic Bank,23326.61,USD,MT202,2017,Incoming,Retail Payment,Latin America,Middle East,MT,Completed,Wire Transfer
+453,Bank of China,Emirates NBD,58336.04,EUR,MT950,2023,Incoming,Trade Finance,Caribbean,Middle East,MT,Completed,ACH
+454,Industrial and Commercial Bank of China,First Abu Dhabi Bank,21779.55,USD,MT103,2019,Outgoing,Treasury Operations,North America,Middle East,MT,Completed,Wire Transfer
+455,Industrial and Commercial Bank of China,United Arab Bank,17482.06,EUR,MT799,2023,Outgoing,FX Settlement,Southeast Asia,Middle East,MT,Completed,Cash
+456,Bank of Tokyo-Mitsubishi UFJ,National Bank of Umm Al Qaiwain,5243.95,GBP,MT950,2015,Outgoing,Treasury Operations,South Asia,Middle East,MT,Completed,Wire Transfer
+457,Credit Suisse,Morgan Stanley,27914.65,EUR,MT700,2017,Incoming,Trade Finance,Asia Pacific,Asia Pacific,MT,Completed,Wire Transfer
+458,Dubai Islamic Bank,National Bank of Fujairah,5361.87,AED,MT700,2017,Incoming,FX Settlement,Europe,Middle East,MT,Completed,Wire Transfer
+459,Bank of Tokyo-Mitsubishi UFJ,Commercial Bank of Dubai,78640.83,CAD,MT760,2016,Incoming,Trade Finance,North America,Middle East,MT,Completed,Wire Transfer
+460,HSBC,Commercial Bank of Dubai,643.65,EUR,MT950,2020,Outgoing,Retail Payment,Southeast Asia,Middle East,MT,Completed,ACH
+461,Goldman Sachs,First Abu Dhabi Bank,3356.16,USD,MT910,2016,Incoming,Retail Payment,Middle East,Middle East,MT,Completed,SWIFT
+462,Emirates NBD,United Arab Bank,2425.12,USD,MT202,2017,Incoming,FX Settlement,North America,Middle East,MT,Completed,SWIFT
+463,HSBC,RAK Bank,26874.46,AED,MT202,2022,Incoming,Treasury Operations,Caribbean,Middle East,MT,Completed,Check
+464,Morgan Stanley,Emirates NBD,24909.22,USD,MT700,2022,Incoming,Interbank Settlement,Caribbean,Middle East,MT,Completed,Cash
+465,Deutsche Bank,Sharjah Islamic Bank,25170.28,EUR,MT950,2017,Incoming,Interbank Settlement,Southeast Asia,Middle East,MT,Completed,Check
+466,Bank of Tokyo-Mitsubishi UFJ,Sharjah Islamic Bank,35135.35,USD,MT799,2019,Outgoing,Retail Payment,Latin America,Middle East,MT,Completed,Wire Transfer
+467,Barclays,United Arab Bank,3951362.0,JPY,MT910,2016,Incoming,Corporate Payment,North America,Middle East,MT,Completed,SWIFT
+468,Wells Fargo,National Bank of Umm Al Qaiwain,2964.85,EUR,MT940,2018,Incoming,Investment,North America,Middle East,MT,Completed,Wire Transfer
+469,Deutsche Bank,National Bank of Fujairah,19144.74,GBP,MT103,2021,Incoming,Treasury Operations,Africa,Middle East,MT,Completed,Wire Transfer
+470,First Abu Dhabi Bank,United Arab Bank,17296.15,EUR,MT910,2023,Incoming,Loan Disbursement,Africa,Middle East,MT,Completed,ACH
+471,Bank of America,BNP Paribas,32554.26,USD,MT760,2023,Incoming,Trade Finance,Africa,South Asia,MT,Completed,Wire Transfer
+472,Deutsche Bank,Mashreq Bank,981569.0,JPY,MT940,2015,Outgoing,Interbank Settlement,Central Asia,Middle East,MT,Completed,Wire Transfer
+473,Bank of China,Deutsche Bank,60241.18,SGD,MT910,2015,Incoming,Corporate Payment,Central Asia,Southeast Asia,MT,Completed,Wire Transfer
+474,Bank of Tokyo-Mitsubishi UFJ,Commercial Bank of Dubai,14208.71,USD,MT760,2020,Incoming,Retail Payment,Southeast Asia,Middle East,MT,Completed,Wire Transfer
+475,JPMorgan Chase,Emirates NBD,14130.95,USD,MT760,2017,Incoming,Treasury Operations,Asia Pacific,Middle East,MT,Completed,Mobile Payment
+476,Dubai Islamic Bank,RAK Bank,85938.23,GBP,MT950,2018,Incoming,FX Settlement,Caribbean,Middle East,MT,Failed,Wire Transfer
+477,Emirates NBD,JPMorgan Chase,79827.38,EUR,MT103,2016,Incoming,Treasury Operations,Asia Pacific,Asia Pacific,MT,Completed,Wire Transfer
+478,UBS,United Arab Bank,30740.65,EUR,MT950,2022,Outgoing,Loan Disbursement,Central Asia,Middle East,MT,Completed,ACH
+479,HSBC,Abu Dhabi Islamic Bank,182207.47,EUR,MT799,2022,Incoming,Corporate Payment,Middle East,Middle East,MT,Pending,Wire Transfer
+480,UBS,Royal Bank of Canada,142085.59,EUR,MT700,2022,Incoming,Retail Payment,Europe,Caribbean,MT,Failed,Mobile Payment
+481,Bank of Tokyo-Mitsubishi UFJ,Abu Dhabi Commercial Bank,7579.69,GBP,MT103,2021,Outgoing,Investment,Southeast Asia,Middle East,MT,Completed,Wire Transfer
+482,Citibank,Abu Dhabi Islamic Bank,23567.94,EUR,MT940,2023,Incoming,Interbank Settlement,Latin America,Middle East,MT,Completed,ACH
+483,Mashreq Bank,Emirates NBD,13323.62,USD,MT950,2017,Outgoing,Loan Disbursement,Central Asia,Middle East,MT,Completed,SWIFT
+484,Deutsche Bank,JPMorgan Chase,36809.33,CAD,MT799,2018,Outgoing,Corporate Payment,Africa,South Asia,MT,Completed,Mobile Payment
+485,HSBC,Standard Chartered,306573.73,USD,MT910,2020,Incoming,FX Settlement,Central Asia,Caribbean,MT,Completed,ACH
+486,Industrial and Commercial Bank of China,Dubai Islamic Bank,23317152.0,JPY,MT950,2015,Incoming,Investment,Caribbean,Middle East,MT,Completed,Check
+487,Mashreq Bank,RAK Bank,56630.01,USD,MT940,2016,Outgoing,Retail Payment,Asia Pacific,Middle East,MT,Completed,Wire Transfer
+488,UBS,Emirates NBD,4943.58,GBP,MT940,2016,Outgoing,FX Settlement,Africa,Middle East,MT,Failed,Wire Transfer
+489,Morgan Stanley,National Bank of Umm Al Qaiwain,36849.62,CNY,MT700,2016,Incoming,Retail Payment,Europe,Middle East,MT,Completed,Wire Transfer
+490,Abu Dhabi Commercial Bank,Sharjah Islamic Bank,34985.02,USD,MT760,2023,Incoming,Investment,Central Asia,Middle East,MT,Completed,Cash
+491,Morgan Stanley,Mashreq Bank,36334.34,USD,MT950,2020,Incoming,Interbank Settlement,Central Asia,Middle East,MT,Completed,Wire Transfer
+492,Emirates NBD,RAK Bank,22715.85,USD,MT950,2015,Incoming,Corporate Payment,Caribbean,Middle East,MT,Completed,Wire Transfer
+493,Bank of America,Dubai Islamic Bank,53773.94,USD,MT950,2022,Incoming,Loan Disbursement,Central Asia,Middle East,MT,Completed,Wire Transfer
+494,Bank of Tokyo-Mitsubishi UFJ,Abu Dhabi Commercial Bank,35033.38,AED,MT700,2019,Incoming,Investment,Africa,Middle East,MT,Completed,Wire Transfer
+495,UBS,RAK Bank,4360.06,USD,MT760,2015,Incoming,Loan Disbursement,North America,Middle East,MT,Completed,Wire Transfer
+496,UBS,National Bank of Fujairah,14928.9,AED,MT799,2016,Incoming,Corporate Payment,South Asia,Middle East,MT,Completed,Credit Card
+497,Bank of China,Abu Dhabi Commercial Bank,11987567.0,JPY,MT940,2021,Outgoing,Loan Disbursement,Caribbean,Middle East,MT,Completed,ACH
+498,Industrial and Commercial Bank of China,Credit Suisse,61238.79,USD,MT700,2021,Outgoing,Corporate Payment,South Asia,South Asia,MT,Cancelled,ACH
+499,Abu Dhabi Commercial Bank,Commercial Bank of Dubai,1165309.0,JPY,MT202,2016,Incoming,Loan Disbursement,Caribbean,Middle East,MT,Completed,SWIFT
+500,Barclays,Emirates NBD,382288.01,AED,MT910,2023,Outgoing,Treasury Operations,South Asia,Middle East,MT,Completed,Wire Transfer
