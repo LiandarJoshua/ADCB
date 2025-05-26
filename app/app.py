@@ -738,7 +738,8 @@ def main():
     st.sidebar.header("🔍 Filters")
     
     # Default file path
-    default_path = "SummerInternVIT\\app\\simulated_transactions.csv"
+    default_path = "app/simulated_transactions.csv"
+
     
     # Load data from default path
     df = None
