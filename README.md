@@ -87,14 +87,6 @@ Place your CSV file at `app/simulated_transactions.csv` or change this line in t
 default_path = "your/file/path.csv"
 ```
 
-## Example Data
-```csv
-send region,receiver region,amount,currency,year
-North America,Europe,1500000,USD,2023
-Asia,North America,2300000,USD,2023
-Europe,Asia,890000,EUR,2023
-```
-
 ## Common Questions
 
 **Q: The app won't start**
