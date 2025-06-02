@@ -232,10 +232,22 @@ Press 's' to Start Recording
 Press 'p' to Pause
 Press 'r' to Resume
 Press 'q' to Stop and Save Recording
-Press 'c' to Cancel and Delete Recording
+Press 'c' to Cancel (works anytime - before or during recording)
+Press 'x' to Exit without recording
 """)
 
 while True:
+    # Check for cancel or exit at any time (before or during recording)
+    if keyboard.is_pressed('c'):
+        print("Recording cancelled!")
+        cancelled = True
+        break
+    
+    if keyboard.is_pressed('x'):
+        print("Exiting without recording.")
+        cancelled = True
+        break
+
     if keyboard.is_pressed('s') and not recording:
         print("Recording started.")
         recording = True
@@ -256,11 +268,6 @@ while True:
         print("Stopped and saved.")
         break
 
-    elif keyboard.is_pressed('c') and recording:
-        print("Recording cancelled. Deleting file...")
-        cancelled = True
-        break
-
     if recording and not paused:
         img = pyautogui.screenshot()
         frame = np.array(img)
@@ -273,7 +280,7 @@ out.release()
 if cancelled:
     if os.path.exists(output_path):
         os.remove(output_path)
-    print("Recording cancelled and file deleted.")
+    print("Recording cancelled and file deleted (if any).")
 else:
     print(f"Recording saved to: {{output_path}}")
     
@@ -430,7 +437,8 @@ else:
                 print("Press 'p' to Pause")
                 print("Press 'r' to Resume") 
                 print("Press 'q' to Stop and Save Recording")
-                print("Press 'c' to Cancel and Delete Recording")
+                print("Press 'c' to Cancel (works anytime - before or during recording)")
+                print("Press 'x' to Exit without recording")
                 print("\nPress Enter here to close Chrome and stop recorder...")
                 
                 # Wait for user input to stop
