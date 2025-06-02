@@ -1,0 +1,9 @@
+{
+  "current_version": "1.5.6",
+  "project_name": "TestingThing",
+  "branch": "hello",
+  "build_number": 1,
+  "current_test_suite": "1",
+  "current_feature": "9",
+  "current_test_case": "12"
+}
