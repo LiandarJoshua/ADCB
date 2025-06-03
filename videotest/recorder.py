@@ -18,16 +18,18 @@ output_folder = r"C:\Users\joshu\PythonSelenium\videotest"
 output_filename = get_next_filename(output_folder)
 output_path = os.path.join(output_folder, output_filename)
 
+
+
 print("Saving recording to:", output_path)
-fps = 15.0
-screen_size = (1280, 720)
+fps = 15.0 #code is used over internal back office application, so fps can be low as possible.
+screen_size = (1280, 720) #code is used for cropping the video.
 fourcc = cv2.VideoWriter_fourcc(*"mp4v")
 out = cv2.VideoWriter(output_path, fourcc, fps, screen_size)
 
 recording = False
 paused = False
 cancelled = False
-
+#controls that will be present on running the script.
 print("""
 Screen Recorder Controls:
 Press 's' to Start Recording
@@ -36,13 +38,13 @@ Press 'r' to Resume
 Press 'q' to Stop and Save Recording
 Press 'c' to Cancel and Delete Recording
 """)
-
+#running  script and buttons along with actions.
 while True:
     if keyboard.is_pressed('s') and not recording:
         print("Recording started.")
         recording = True
         paused = False
-        time.sleep(0.5)
+        time.sleep(0.5) #time gap
 
     elif keyboard.is_pressed('p') and recording and not paused:
         print("Paused.")
@@ -71,7 +73,7 @@ while True:
         out.write(frame)
 
 out.release()
-
+#cancel script
 if cancelled:
     if os.path.exists(output_path):
         os.remove(output_path)

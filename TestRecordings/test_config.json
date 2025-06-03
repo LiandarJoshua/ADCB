@@ -1,9 +1,9 @@
 {
   "current_version": "1.5.6",
-  "project_name": "TestingThing",
+  "project_name": "TestingVideo",
   "branch": "hello",
-  "build_number": 1,
-  "current_test_suite": "1",
-  "current_feature": "9",
-  "current_test_case": "12"
+  "build_number": 10,
+  "current_test_suite": "2",
+  "current_feature": "10",
+  "current_test_case": "10"
 }

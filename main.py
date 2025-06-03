@@ -4,10 +4,10 @@ import psutil
 import subprocess
 import threading
 from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.chrome.options import Options #web browser automation tasks, for testing only using chrome.
 import json
 from datetime import datetime
-
+#class for chrome recording script and setup function for initialization and build directories. Modules used are:cv2 for recording and selenium for web driver automation.
 class ChromeRecorderLauncher:
     def __init__(self, recorder_script_path="recorder.py"):
         self.recorder_script_path = recorder_script_path
@@ -17,7 +17,7 @@ class ChromeRecorderLauncher:
         self.base_recordings_folder = r"C:\Users\joshu\PythonSelenium\TestRecordings"
         self.config_file = os.path.join(self.base_recordings_folder, "test_config.json")
         self.load_test_config()
-        
+    #function to create directory or load default directory parameters
     def load_test_config(self):
         """Load or create test configuration file"""
         default_config = {
@@ -53,12 +53,10 @@ class ChromeRecorderLauncher:
         print("TEST CASE SETUP")
         print("="*50)
         
-        # Project info
         project = input(f"Project Name [{self.config['project_name']}]: ").strip()
         if project:
             self.config['project_name'] = project
             
-        # Version info
         print(f"\nCurrent Version: {self.config['current_version']}")
         print("1. Keep current version")
         print("2. Increment patch (x.x.X)")
@@ -190,7 +188,6 @@ class ChromeRecorderLauncher:
         recording_filename = self.get_recording_filename()
         full_recording_path = os.path.join(recording_folder, recording_filename)
         
-        # Create a temporary recorder script with the custom path
         temp_recorder_path = "temp_recorder.py"
         
         recorder_template = f'''import cv2

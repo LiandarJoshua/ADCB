@@ -1,0 +1,11 @@
+Test Case Recording Summary
+========================================
+Project: TestingVideo
+Version: 1.5.6
+Branch: hello
+Build: 10
+Feature: 10
+Test Suite: 2
+Test Case: 10
+Recording Date: 2025-06-03 10:40:17
+Recording File: 10_20250603_103931_recording.mp4

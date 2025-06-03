@@ -7,17 +7,17 @@ import keyboard
 from datetime import datetime
 
 # Auto-generated recording configuration
-output_path = r"C:\Users\joshu\PythonSelenium\TestRecordings\TestingThing\v1.5.6\hello\Build_1\9\1\12_20250602_081536_recording.mp4"
+output_path = r"C:\Users\joshu\PythonSelenium\TestRecordings\TestingVideo\v1.5.6\hello\Build_10\10\2\10_20250603_104743_recording.mp4"
 print("="*60)
 print("AZURE DEVOPS TEST CASE RECORDING")
 print("="*60) 
-print("Project: TestingThing")
+print("Project: TestingVideo")
 print("Version: 1.5.6")
 print("Branch: hello")
-print("Build: 1")
-print("Feature: 9")
-print("Test Suite: 1")
-print("Test Case: 12")
+print("Build: 10")
+print("Feature: 10")
+print("Test Suite: 2")
+print("Test Case: 10")
 print("="*60)
 print("Saving recording to:", output_path)
 print("="*60)
@@ -94,13 +94,13 @@ else:
     with open(summary_path, 'w') as f:
         f.write("Test Case Recording Summary\n")
         f.write("="*40 + "\n")
-        f.write(f"Project: TestingThing\n")
+        f.write(f"Project: TestingVideo\n")
         f.write(f"Version: 1.5.6\n")
         f.write(f"Branch: hello\n")
-        f.write(f"Build: 1\n")
-        f.write(f"Feature: 9\n")
-        f.write(f"Test Suite: 1\n")
-        f.write(f"Test Case: 12\n")
+        f.write(f"Build: 10\n")
+        f.write(f"Feature: 10\n")
+        f.write(f"Test Suite: 2\n")
+        f.write(f"Test Case: 10\n")
         f.write(f"Recording Date: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
         f.write(f"Recording File: {os.path.basename(output_path)}\n")
     
